@@ -1,0 +1,40 @@
+city,country,year,month,month_of_year,lat,lon,timezone_id,avg_temp_c,max_temp_c,min_temp_c,month_year,alpha-3,region
+Berlin,Germany,2023,4,April    ,52.52,13.4,Europe/Berlin,9.6,20.0,2.2,2023-04-01,DEU,Europe
+Tokyo,Japan,2023,4,April    ,35.69,139.69,Asia/Tokyo,16.5,23.5,10.1,2023-04-01,JPN,Asia
+Wellington,New Zealand,2023,4,April    ,-41.3,174.78,Pacific/Auckland,14.7,18.9,10.2,2023-04-01,NZL,Oceania
+Berlin,Germany,2023,5,May      ,52.52,13.4,Europe/Berlin,13.8,26.6,4.2,2023-05-01,DEU,Europe
+Tokyo,Japan,2023,5,May      ,35.69,139.69,Asia/Tokyo,18.4,29.1,10.5,2023-05-01,JPN,Asia
+Wellington,New Zealand,2023,5,May      ,-41.3,174.78,Pacific/Auckland,14.3,20.6,9.0,2023-05-01,NZL,Oceania
+Berlin,Germany,2023,6,June     ,52.52,13.4,Europe/Berlin,19.6,31.0,7.5,2023-06-01,DEU,Europe
+Tokyo,Japan,2023,6,June     ,35.69,139.69,Asia/Tokyo,22.6,30.9,15.2,2023-06-01,JPN,Asia
+Wellington,New Zealand,2023,6,June     ,-41.3,174.78,Pacific/Auckland,12.1,16.5,8.2,2023-06-01,NZL,Oceania
+Berlin,Germany,2023,7,July     ,52.52,13.4,Europe/Berlin,20.5,35.2,12.0,2023-07-01,DEU,Europe
+Tokyo,Japan,2023,7,July     ,35.69,139.69,Asia/Tokyo,27.9,35.8,21.6,2023-07-01,JPN,Asia
+Wellington,New Zealand,2023,7,July     ,-41.3,174.78,Pacific/Auckland,10.8,15.6,6.6,2023-07-01,NZL,Oceania
+Wellington,New Zealand,2023,8,August   ,-41.3,174.78,Pacific/Auckland,9.3,14.9,5.0,2023-08-01,NZL,Oceania
+Berlin,Germany,2023,8,August   ,52.52,13.4,Europe/Berlin,20.3,31.7,11.7,2023-08-01,DEU,Europe
+Tokyo,Japan,2023,8,August   ,35.69,139.69,Asia/Tokyo,29.2,33.9,25.6,2023-08-01,JPN,Asia
+Tokyo,Japan,2023,9,September,35.69,139.69,Asia/Tokyo,27.0,32.5,20.0,2023-09-01,JPN,Asia
+Wellington,New Zealand,2023,9,September,-41.3,174.78,Pacific/Auckland,11.4,15.0,7.2,2023-09-01,NZL,Oceania
+Berlin,Germany,2023,9,September,52.52,13.4,Europe/Berlin,20.2,31.4,10.7,2023-09-01,DEU,Europe
+Berlin,Germany,2023,10,October  ,52.52,13.4,Europe/Berlin,12.6,27.0,4.8,2023-10-01,DEU,Europe
+Tokyo,Japan,2023,10,October  ,35.69,139.69,Asia/Tokyo,20.0,29.0,13.6,2023-10-01,JPN,Asia
+Wellington,New Zealand,2023,10,October  ,-41.3,174.78,Pacific/Auckland,11.7,17.5,5.6,2023-10-01,NZL,Oceania
+Tokyo,Japan,2023,11,November ,35.69,139.69,Asia/Tokyo,15.7,24.4,8.9,2023-11-01,JPN,Asia
+Wellington,New Zealand,2023,11,November ,-41.3,174.78,Pacific/Auckland,12.9,18.5,7.0,2023-11-01,NZL,Oceania
+Berlin,Germany,2023,11,November ,52.52,13.4,Europe/Berlin,6.1,14.9,-4.9,2023-11-01,DEU,Europe
+Tokyo,Japan,2023,12,December ,35.69,139.69,Asia/Tokyo,10.4,18.0,3.7,2023-12-01,JPN,Asia
+Wellington,New Zealand,2023,12,December ,-41.3,174.78,Pacific/Auckland,15.1,19.6,9.0,2023-12-01,NZL,Oceania
+Berlin,Germany,2023,12,December ,52.52,13.4,Europe/Berlin,3.9,11.5,-6.3,2023-12-01,DEU,Europe
+Berlin,Germany,2024,1,January  ,52.52,13.4,Europe/Berlin,1.8,11.3,-7.3,2024-01-01,DEU,Europe
+Tokyo,Japan,2024,1,January  ,35.69,139.69,Asia/Tokyo,7.8,13.7,1.9,2024-01-01,JPN,Asia
+Wellington,New Zealand,2024,1,January  ,-41.3,174.78,Pacific/Auckland,17.1,21.9,10.8,2024-01-01,NZL,Oceania
+Tokyo,Japan,2024,2,February ,35.69,139.69,Asia/Tokyo,8.3,20.0,1.1,2024-02-01,JPN,Asia
+Wellington,New Zealand,2024,2,February ,-41.3,174.78,Pacific/Auckland,16.3,20.5,10.5,2024-02-01,NZL,Oceania
+Berlin,Germany,2024,2,February ,52.52,13.4,Europe/Berlin,6.9,14.7,1.5,2024-02-01,DEU,Europe
+Wellington,New Zealand,2024,3,March    ,-41.3,174.78,Pacific/Auckland,14.6,19.5,8.9,2024-03-01,NZL,Oceania
+Berlin,Germany,2024,3,March    ,52.52,13.4,Europe/Berlin,8.3,20.8,-0.1,2024-03-01,DEU,Europe
+Tokyo,Japan,2024,3,March    ,35.69,139.69,Asia/Tokyo,10.0,24.4,2.4,2024-03-01,JPN,Asia
+Tokyo,Japan,2024,4,April    ,35.69,139.69,Asia/Tokyo,14.8,22.2,8.0,2024-04-01,JPN,Asia
+Berlin,Germany,2024,4,April    ,52.52,13.4,Europe/Berlin,13.2,27.1,3.5,2024-04-01,DEU,Europe
+Wellington,New Zealand,2024,4,April    ,-41.3,174.78,Pacific/Auckland,14.2,19.2,9.4,2024-04-01,NZL,Oceania

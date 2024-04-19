@@ -1,0 +1,1096 @@
+,date,year,month_of_year,month,city,country,max_temp_c,min_temp_c,avg_temp_c,lat,lon,timezone_id
+0,2023-04-29,2023,April    ,4,Berlin,Germany,12.5,8.7,10.6,52.52,13.4,Europe/Berlin
+1,2023-04-19,2023,April    ,4,Berlin,Germany,8.2,3.1,5.1,52.52,13.4,Europe/Berlin
+2,2023-04-24,2023,April    ,4,Berlin,Germany,16.0,8.2,12.5,52.52,13.4,Europe/Berlin
+3,2023-04-27,2023,April    ,4,Berlin,Germany,12.0,2.2,7.5,52.52,13.4,Europe/Berlin
+4,2023-04-18,2023,April    ,4,Berlin,Germany,11.9,4.5,7.6,52.52,13.4,Europe/Berlin
+5,2023-04-21,2023,April    ,4,Berlin,Germany,19.1,8.7,13.2,52.52,13.4,Europe/Berlin
+6,2023-04-22,2023,April    ,4,Berlin,Germany,20.0,7.7,13.9,52.52,13.4,Europe/Berlin
+7,2023-04-25,2023,April    ,4,Berlin,Germany,11.2,5.1,7.8,52.52,13.4,Europe/Berlin
+8,2023-04-20,2023,April    ,4,Berlin,Germany,13.2,3.8,8.5,52.52,13.4,Europe/Berlin
+9,2023-04-26,2023,April    ,4,Berlin,Germany,10.3,2.3,6.4,52.52,13.4,Europe/Berlin
+10,2023-04-23,2023,April    ,4,Berlin,Germany,16.4,10.3,12.7,52.52,13.4,Europe/Berlin
+11,2023-04-30,2023,April    ,4,Berlin,Germany,15.7,4.6,9.9,52.52,13.4,Europe/Berlin
+12,2023-04-28,2023,April    ,4,Berlin,Germany,13.6,3.3,8.9,52.52,13.4,Europe/Berlin
+13,2023-05-31,2023,May      ,5,Berlin,Germany,24.6,10.4,17.6,52.52,13.4,Europe/Berlin
+14,2023-05-02,2023,May      ,5,Berlin,Germany,12.9,7.3,10.0,52.52,13.4,Europe/Berlin
+15,2023-05-18,2023,May      ,5,Berlin,Germany,15.2,5.2,10.8,52.52,13.4,Europe/Berlin
+16,2023-05-04,2023,May      ,5,Berlin,Germany,18.0,4.3,11.3,52.52,13.4,Europe/Berlin
+17,2023-05-26,2023,May      ,5,Berlin,Germany,19.6,8.2,13.8,52.52,13.4,Europe/Berlin
+18,2023-05-10,2023,May      ,5,Berlin,Germany,17.9,9.5,13.8,52.52,13.4,Europe/Berlin
+19,2023-05-19,2023,May      ,5,Berlin,Germany,18.1,6.9,13.0,52.52,13.4,Europe/Berlin
+20,2023-05-25,2023,May      ,5,Berlin,Germany,19.9,8.8,14.6,52.52,13.4,Europe/Berlin
+21,2023-05-27,2023,May      ,5,Berlin,Germany,20.9,8.1,15.0,52.52,13.4,Europe/Berlin
+22,2023-05-14,2023,May      ,5,Berlin,Germany,19.2,9.3,14.9,52.52,13.4,Europe/Berlin
+23,2023-05-12,2023,May      ,5,Berlin,Germany,21.1,11.2,16.1,52.52,13.4,Europe/Berlin
+24,2023-05-05,2023,May      ,5,Berlin,Germany,18.1,7.0,12.7,52.52,13.4,Europe/Berlin
+25,2023-05-21,2023,May      ,5,Berlin,Germany,26.6,13.5,19.7,52.52,13.4,Europe/Berlin
+26,2023-05-06,2023,May      ,5,Berlin,Germany,10.8,7.0,8.6,52.52,13.4,Europe/Berlin
+27,2023-05-08,2023,May      ,5,Berlin,Germany,16.9,5.1,11.0,52.52,13.4,Europe/Berlin
+28,2023-05-24,2023,May      ,5,Berlin,Germany,16.5,7.9,12.6,52.52,13.4,Europe/Berlin
+29,2023-05-22,2023,May      ,5,Berlin,Germany,26.2,14.6,20.0,52.52,13.4,Europe/Berlin
+30,2023-05-11,2023,May      ,5,Berlin,Germany,20.4,11.4,15.8,52.52,13.4,Europe/Berlin
+31,2023-05-09,2023,May      ,5,Berlin,Germany,19.5,6.5,13.0,52.52,13.4,Europe/Berlin
+32,2023-05-07,2023,May      ,5,Berlin,Germany,14.1,7.8,10.2,52.52,13.4,Europe/Berlin
+33,2023-05-03,2023,May      ,5,Berlin,Germany,15.4,4.8,9.9,52.52,13.4,Europe/Berlin
+34,2023-05-16,2023,May      ,5,Berlin,Germany,17.2,8.9,12.0,52.52,13.4,Europe/Berlin
+35,2023-05-15,2023,May      ,5,Berlin,Germany,18.6,10.6,14.5,52.52,13.4,Europe/Berlin
+36,2023-05-23,2023,May      ,5,Berlin,Germany,17.6,11.1,15.2,52.52,13.4,Europe/Berlin
+37,2023-05-29,2023,May      ,5,Berlin,Germany,20.9,12.0,16.0,52.52,13.4,Europe/Berlin
+38,2023-05-13,2023,May      ,5,Berlin,Germany,21.5,10.8,16.1,52.52,13.4,Europe/Berlin
+39,2023-05-30,2023,May      ,5,Berlin,Germany,22.3,8.7,15.6,52.52,13.4,Europe/Berlin
+40,2023-05-28,2023,May      ,5,Berlin,Germany,23.3,9.7,17.0,52.52,13.4,Europe/Berlin
+41,2023-05-17,2023,May      ,5,Berlin,Germany,15.0,6.0,10.5,52.52,13.4,Europe/Berlin
+42,2023-05-20,2023,May      ,5,Berlin,Germany,21.0,9.3,14.8,52.52,13.4,Europe/Berlin
+43,2023-05-01,2023,May      ,5,Berlin,Germany,18.8,4.2,11.7,52.52,13.4,Europe/Berlin
+44,2023-06-25,2023,June     ,6,Berlin,Germany,26.7,17.6,22.0,52.52,13.4,Europe/Berlin
+45,2023-06-10,2023,June     ,6,Berlin,Germany,28.9,15.5,22.3,52.52,13.4,Europe/Berlin
+46,2023-06-29,2023,June     ,6,Berlin,Germany,25.5,13.8,20.6,52.52,13.4,Europe/Berlin
+47,2023-06-17,2023,June     ,6,Berlin,Germany,23.7,13.1,18.2,52.52,13.4,Europe/Berlin
+48,2023-06-05,2023,June     ,6,Berlin,Germany,25.1,11.3,19.2,52.52,13.4,Europe/Berlin
+49,2023-06-01,2023,June     ,6,Berlin,Germany,23.2,10.8,16.8,52.52,13.4,Europe/Berlin
+50,2023-06-22,2023,June     ,6,Berlin,Germany,29.0,18.2,24.0,52.52,13.4,Europe/Berlin
+51,2023-06-04,2023,June     ,6,Berlin,Germany,23.3,9.2,16.8,52.52,13.4,Europe/Berlin
+52,2023-06-27,2023,June     ,6,Berlin,Germany,20.7,13.6,17.4,52.52,13.4,Europe/Berlin
+53,2023-06-12,2023,June     ,6,Berlin,Germany,26.6,14.1,20.9,52.52,13.4,Europe/Berlin
+54,2023-06-09,2023,June     ,6,Berlin,Germany,27.9,17.2,22.3,52.52,13.4,Europe/Berlin
+55,2023-06-23,2023,June     ,6,Berlin,Germany,19.1,14.9,17.2,52.52,13.4,Europe/Berlin
+56,2023-06-30,2023,June     ,6,Berlin,Germany,22.0,15.8,18.7,52.52,13.4,Europe/Berlin
+57,2023-06-13,2023,June     ,6,Berlin,Germany,21.3,13.9,17.8,52.52,13.4,Europe/Berlin
+58,2023-06-08,2023,June     ,6,Berlin,Germany,27.6,16.1,21.9,52.52,13.4,Europe/Berlin
+59,2023-06-14,2023,June     ,6,Berlin,Germany,22.3,12.5,17.5,52.52,13.4,Europe/Berlin
+60,2023-06-07,2023,June     ,6,Berlin,Germany,26.6,15.9,20.9,52.52,13.4,Europe/Berlin
+61,2023-06-28,2023,June     ,6,Berlin,Germany,22.2,12.1,17.5,52.52,13.4,Europe/Berlin
+62,2023-06-20,2023,June     ,6,Berlin,Germany,28.3,18.6,23.6,52.52,13.4,Europe/Berlin
+63,2023-06-24,2023,June     ,6,Berlin,Germany,25.4,13.2,19.7,52.52,13.4,Europe/Berlin
+64,2023-06-02,2023,June     ,6,Berlin,Germany,20.0,10.4,15.1,52.52,13.4,Europe/Berlin
+65,2023-06-15,2023,June     ,6,Berlin,Germany,21.8,12.7,17.2,52.52,13.4,Europe/Berlin
+66,2023-06-16,2023,June     ,6,Berlin,Germany,19.4,13.5,16.1,52.52,13.4,Europe/Berlin
+67,2023-06-18,2023,June     ,6,Berlin,Germany,26.1,13.2,20.2,52.52,13.4,Europe/Berlin
+68,2023-06-19,2023,June     ,6,Berlin,Germany,28.3,15.6,22.2,52.52,13.4,Europe/Berlin
+69,2023-06-06,2023,June     ,6,Berlin,Germany,21.7,14.8,18.5,52.52,13.4,Europe/Berlin
+70,2023-06-26,2023,June     ,6,Berlin,Germany,31.0,18.1,22.9,52.52,13.4,Europe/Berlin
+71,2023-06-03,2023,June     ,6,Berlin,Germany,21.2,7.5,14.5,52.52,13.4,Europe/Berlin
+72,2023-06-21,2023,June     ,6,Berlin,Germany,30.1,19.8,24.6,52.52,13.4,Europe/Berlin
+73,2023-06-11,2023,June     ,6,Berlin,Germany,27.4,14.5,21.5,52.52,13.4,Europe/Berlin
+74,2023-07-05,2023,July     ,7,Berlin,Germany,24.2,13.9,18.7,52.52,13.4,Europe/Berlin
+75,2023-07-09,2023,July     ,7,Berlin,Germany,33.1,17.1,25.5,52.52,13.4,Europe/Berlin
+76,2023-07-19,2023,July     ,7,Berlin,Germany,25.6,16.6,20.7,52.52,13.4,Europe/Berlin
+77,2023-07-24,2023,July     ,7,Berlin,Germany,28.3,17.4,21.6,52.52,13.4,Europe/Berlin
+78,2023-07-15,2023,July     ,7,Berlin,Germany,35.2,18.2,27.1,52.52,13.4,Europe/Berlin
+79,2023-07-02,2023,July     ,7,Berlin,Germany,23.3,15.3,18.6,52.52,13.4,Europe/Berlin
+80,2023-07-29,2023,July     ,7,Berlin,Germany,22.9,16.2,19.4,52.52,13.4,Europe/Berlin
+81,2023-07-20,2023,July     ,7,Berlin,Germany,20.9,13.9,17.8,52.52,13.4,Europe/Berlin
+82,2023-07-14,2023,July     ,7,Berlin,Germany,27.1,15.0,21.2,52.52,13.4,Europe/Berlin
+83,2023-07-06,2023,July     ,7,Berlin,Germany,22.5,13.3,18.4,52.52,13.4,Europe/Berlin
+84,2023-07-13,2023,July     ,7,Berlin,Germany,26.3,18.2,22.0,52.52,13.4,Europe/Berlin
+85,2023-07-08,2023,July     ,7,Berlin,Germany,31.5,15.2,23.9,52.52,13.4,Europe/Berlin
+86,2023-07-23,2023,July     ,7,Berlin,Germany,25.7,16.3,20.0,52.52,13.4,Europe/Berlin
+87,2023-07-01,2023,July     ,7,Berlin,Germany,24.1,15.8,19.4,52.52,13.4,Europe/Berlin
+88,2023-07-03,2023,July     ,7,Berlin,Germany,22.2,13.3,18.2,52.52,13.4,Europe/Berlin
+89,2023-07-07,2023,July     ,7,Berlin,Germany,28.6,14.1,21.7,52.52,13.4,Europe/Berlin
+90,2023-07-18,2023,July     ,7,Berlin,Germany,24.9,14.5,20.3,52.52,13.4,Europe/Berlin
+91,2023-07-11,2023,July     ,7,Berlin,Germany,31.3,16.7,24.2,52.52,13.4,Europe/Berlin
+92,2023-07-04,2023,July     ,7,Berlin,Germany,22.0,14.8,18.4,52.52,13.4,Europe/Berlin
+93,2023-07-12,2023,July     ,7,Berlin,Germany,28.8,19.6,23.9,52.52,13.4,Europe/Berlin
+94,2023-07-28,2023,July     ,7,Berlin,Germany,22.8,15.3,18.9,52.52,13.4,Europe/Berlin
+95,2023-07-22,2023,July     ,7,Berlin,Germany,22.9,13.9,18.2,52.52,13.4,Europe/Berlin
+96,2023-07-31,2023,July     ,7,Berlin,Germany,19.4,15.0,17.0,52.52,13.4,Europe/Berlin
+97,2023-07-30,2023,July     ,7,Berlin,Germany,25.4,15.4,20.0,52.52,13.4,Europe/Berlin
+98,2023-07-10,2023,July     ,7,Berlin,Germany,28.1,19.6,23.4,52.52,13.4,Europe/Berlin
+99,2023-07-16,2023,July     ,7,Berlin,Germany,30.1,19.8,24.1,52.52,13.4,Europe/Berlin
+100,2023-07-17,2023,July     ,7,Berlin,Germany,28.0,17.7,22.9,52.52,13.4,Europe/Berlin
+101,2023-07-26,2023,July     ,7,Berlin,Germany,20.7,12.4,17.0,52.52,13.4,Europe/Berlin
+102,2023-07-21,2023,July     ,7,Berlin,Germany,20.9,13.9,17.5,52.52,13.4,Europe/Berlin
+103,2023-07-25,2023,July     ,7,Berlin,Germany,21.6,15.3,18.4,52.52,13.4,Europe/Berlin
+104,2023-07-27,2023,July     ,7,Berlin,Germany,22.5,12.0,17.1,52.52,13.4,Europe/Berlin
+105,2023-08-11,2023,August   ,8,Berlin,Germany,27.0,13.9,20.1,52.52,13.4,Europe/Berlin
+106,2023-08-28,2023,August   ,8,Berlin,Germany,21.5,14.6,17.8,52.52,13.4,Europe/Berlin
+107,2023-08-29,2023,August   ,8,Berlin,Germany,16.3,13.7,14.4,52.52,13.4,Europe/Berlin
+108,2023-08-20,2023,August   ,8,Berlin,Germany,28.6,22.3,25.3,52.52,13.4,Europe/Berlin
+109,2023-08-06,2023,August   ,8,Berlin,Germany,19.8,14.7,17.1,52.52,13.4,Europe/Berlin
+110,2023-08-30,2023,August   ,8,Berlin,Germany,21.2,12.9,16.0,52.52,13.4,Europe/Berlin
+111,2023-08-27,2023,August   ,8,Berlin,Germany,22.8,17.9,20.1,52.52,13.4,Europe/Berlin
+112,2023-08-07,2023,August   ,8,Berlin,Germany,17.8,13.2,15.0,52.52,13.4,Europe/Berlin
+113,2023-08-13,2023,August   ,8,Berlin,Germany,26.7,17.4,21.8,52.52,13.4,Europe/Berlin
+114,2023-08-26,2023,August   ,8,Berlin,Germany,26.7,19.8,22.8,52.52,13.4,Europe/Berlin
+115,2023-08-05,2023,August   ,8,Berlin,Germany,22.6,14.3,18.6,52.52,13.4,Europe/Berlin
+116,2023-08-16,2023,August   ,8,Berlin,Germany,28.5,19.7,23.4,52.52,13.4,Europe/Berlin
+117,2023-08-09,2023,August   ,8,Berlin,Germany,20.6,12.0,16.4,52.52,13.4,Europe/Berlin
+118,2023-08-10,2023,August   ,8,Berlin,Germany,21.2,11.7,16.4,52.52,13.4,Europe/Berlin
+119,2023-08-03,2023,August   ,8,Berlin,Germany,22.4,16.2,19.3,52.52,13.4,Europe/Berlin
+120,2023-08-17,2023,August   ,8,Berlin,Germany,25.9,18.0,21.5,52.52,13.4,Europe/Berlin
+121,2023-08-22,2023,August   ,8,Berlin,Germany,25.8,19.6,22.6,52.52,13.4,Europe/Berlin
+122,2023-08-24,2023,August   ,8,Berlin,Germany,28.4,16.6,22.7,52.52,13.4,Europe/Berlin
+123,2023-08-31,2023,August   ,8,Berlin,Germany,19.3,13.8,16.3,52.52,13.4,Europe/Berlin
+124,2023-08-23,2023,August   ,8,Berlin,Germany,26.6,17.2,21.8,52.52,13.4,Europe/Berlin
+125,2023-08-02,2023,August   ,8,Berlin,Germany,22.2,14.1,17.8,52.52,13.4,Europe/Berlin
+126,2023-08-15,2023,August   ,8,Berlin,Germany,30.2,19.8,24.6,52.52,13.4,Europe/Berlin
+127,2023-08-08,2023,August   ,8,Berlin,Germany,20.4,12.5,16.0,52.52,13.4,Europe/Berlin
+128,2023-08-14,2023,August   ,8,Berlin,Germany,30.1,17.9,23.8,52.52,13.4,Europe/Berlin
+129,2023-08-21,2023,August   ,8,Berlin,Germany,27.7,19.5,23.0,52.52,13.4,Europe/Berlin
+130,2023-08-18,2023,August   ,8,Berlin,Germany,29.9,19.0,24.3,52.52,13.4,Europe/Berlin
+131,2023-08-25,2023,August   ,8,Berlin,Germany,31.6,20.6,25.0,52.52,13.4,Europe/Berlin
+132,2023-08-01,2023,August   ,8,Berlin,Germany,20.8,15.6,17.6,52.52,13.4,Europe/Berlin
+133,2023-08-04,2023,August   ,8,Berlin,Germany,22.4,16.3,19.2,52.52,13.4,Europe/Berlin
+134,2023-08-12,2023,August   ,8,Berlin,Germany,26.7,17.8,21.9,52.52,13.4,Europe/Berlin
+135,2023-08-19,2023,August   ,8,Berlin,Germany,31.7,19.9,26.2,52.52,13.4,Europe/Berlin
+136,2023-09-10,2023,September,9,Berlin,Germany,30.5,18.8,24.4,52.52,13.4,Europe/Berlin
+137,2023-09-21,2023,September,9,Berlin,Germany,27.4,16.6,21.5,52.52,13.4,Europe/Berlin
+138,2023-09-04,2023,September,9,Berlin,Germany,25.9,14.0,19.9,52.52,13.4,Europe/Berlin
+139,2023-09-29,2023,September,9,Berlin,Germany,26.0,17.7,20.8,52.52,13.4,Europe/Berlin
+140,2023-09-19,2023,September,9,Berlin,Germany,21.2,17.0,19.0,52.52,13.4,Europe/Berlin
+141,2023-09-09,2023,September,9,Berlin,Germany,31.4,18.0,24.3,52.52,13.4,Europe/Berlin
+142,2023-09-07,2023,September,9,Berlin,Germany,29.5,17.5,23.2,52.52,13.4,Europe/Berlin
+143,2023-09-03,2023,September,9,Berlin,Germany,22.6,15.8,18.9,52.52,13.4,Europe/Berlin
+144,2023-09-23,2023,September,9,Berlin,Germany,20.3,13.2,16.3,52.52,13.4,Europe/Berlin
+145,2023-09-11,2023,September,9,Berlin,Germany,30.4,19.9,25.1,52.52,13.4,Europe/Berlin
+146,2023-09-14,2023,September,9,Berlin,Germany,20.6,10.7,15.6,52.52,13.4,Europe/Berlin
+147,2023-09-01,2023,September,9,Berlin,Germany,20.6,12.2,16.1,52.52,13.4,Europe/Berlin
+148,2023-09-05,2023,September,9,Berlin,Germany,28.3,17.0,22.4,52.52,13.4,Europe/Berlin
+149,2023-09-27,2023,September,9,Berlin,Germany,26.4,17.1,21.5,52.52,13.4,Europe/Berlin
+150,2023-09-13,2023,September,9,Berlin,Germany,20.1,12.6,17.0,52.52,13.4,Europe/Berlin
+151,2023-09-18,2023,September,9,Berlin,Germany,28.5,18.3,23.1,52.52,13.4,Europe/Berlin
+152,2023-09-20,2023,September,9,Berlin,Germany,25.3,15.9,19.9,52.52,13.4,Europe/Berlin
+153,2023-09-06,2023,September,9,Berlin,Germany,29.4,17.4,23.1,52.52,13.4,Europe/Berlin
+154,2023-09-17,2023,September,9,Berlin,Germany,27.1,16.7,21.6,52.52,13.4,Europe/Berlin
+155,2023-09-22,2023,September,9,Berlin,Germany,20.0,15.4,17.9,52.52,13.4,Europe/Berlin
+156,2023-09-02,2023,September,9,Berlin,Germany,22.7,14.2,18.4,52.52,13.4,Europe/Berlin
+157,2023-09-15,2023,September,9,Berlin,Germany,24.4,13.1,18.5,52.52,13.4,Europe/Berlin
+158,2023-09-24,2023,September,9,Berlin,Germany,20.6,11.0,15.8,52.52,13.4,Europe/Berlin
+159,2023-09-16,2023,September,9,Berlin,Germany,27.3,14.6,20.7,52.52,13.4,Europe/Berlin
+160,2023-09-12,2023,September,9,Berlin,Germany,28.6,19.9,23.3,52.52,13.4,Europe/Berlin
+161,2023-09-30,2023,September,9,Berlin,Germany,20.0,12.6,16.5,52.52,13.4,Europe/Berlin
+162,2023-09-28,2023,September,9,Berlin,Germany,27.0,17.0,21.2,52.52,13.4,Europe/Berlin
+163,2023-09-26,2023,September,9,Berlin,Germany,26.0,14.5,20.1,52.52,13.4,Europe/Berlin
+164,2023-09-08,2023,September,9,Berlin,Germany,30.2,17.4,23.5,52.52,13.4,Europe/Berlin
+165,2023-09-25,2023,September,9,Berlin,Germany,22.6,11.6,16.7,52.52,13.4,Europe/Berlin
+166,2023-10-02,2023,October  ,10,Berlin,Germany,25.1,16.1,20.2,52.52,13.4,Europe/Berlin
+167,2023-10-13,2023,October  ,10,Berlin,Germany,20.5,14.0,17.1,52.52,13.4,Europe/Berlin
+168,2023-10-14,2023,October  ,10,Berlin,Germany,21.4,9.1,15.0,52.52,13.4,Europe/Berlin
+169,2023-10-16,2023,October  ,10,Berlin,Germany,11.1,4.8,8.1,52.52,13.4,Europe/Berlin
+170,2023-10-12,2023,October  ,10,Berlin,Germany,19.4,13.0,14.6,52.52,13.4,Europe/Berlin
+171,2023-10-01,2023,October  ,10,Berlin,Germany,20.2,13.7,16.4,52.52,13.4,Europe/Berlin
+172,2023-10-09,2023,October  ,10,Berlin,Germany,14.2,7.6,10.4,52.52,13.4,Europe/Berlin
+173,2023-10-26,2023,October  ,10,Berlin,Germany,12.6,9.9,11.1,52.52,13.4,Europe/Berlin
+174,2023-10-06,2023,October  ,10,Berlin,Germany,19.8,12.4,16.1,52.52,13.4,Europe/Berlin
+175,2023-10-05,2023,October  ,10,Berlin,Germany,17.2,11.7,14.0,52.52,13.4,Europe/Berlin
+176,2023-10-18,2023,October  ,10,Berlin,Germany,13.8,5.6,9.1,52.52,13.4,Europe/Berlin
+177,2023-10-10,2023,October  ,10,Berlin,Germany,16.2,13.4,14.8,52.52,13.4,Europe/Berlin
+178,2023-10-27,2023,October  ,10,Berlin,Germany,11.8,9.2,10.3,52.52,13.4,Europe/Berlin
+179,2023-10-22,2023,October  ,10,Berlin,Germany,16.3,10.5,13.2,52.52,13.4,Europe/Berlin
+180,2023-10-20,2023,October  ,10,Berlin,Germany,7.7,6.2,6.7,52.52,13.4,Europe/Berlin
+181,2023-10-25,2023,October  ,10,Berlin,Germany,14.0,10.2,11.8,52.52,13.4,Europe/Berlin
+182,2023-10-08,2023,October  ,10,Berlin,Germany,14.1,8.5,11.2,52.52,13.4,Europe/Berlin
+183,2023-10-21,2023,October  ,10,Berlin,Germany,16.2,7.0,10.8,52.52,13.4,Europe/Berlin
+184,2023-10-30,2023,October  ,10,Berlin,Germany,14.0,10.0,12.2,52.52,13.4,Europe/Berlin
+185,2023-10-29,2023,October  ,10,Berlin,Germany,14.2,8.5,11.2,52.52,13.4,Europe/Berlin
+186,2023-10-23,2023,October  ,10,Berlin,Germany,15.2,8.6,11.8,52.52,13.4,Europe/Berlin
+187,2023-10-15,2023,October  ,10,Berlin,Germany,11.4,7.0,8.6,52.52,13.4,Europe/Berlin
+188,2023-10-03,2023,October  ,10,Berlin,Germany,27.0,13.6,19.8,52.52,13.4,Europe/Berlin
+189,2023-10-04,2023,October  ,10,Berlin,Germany,18.1,12.0,14.4,52.52,13.4,Europe/Berlin
+190,2023-10-31,2023,October  ,10,Berlin,Germany,12.4,9.2,11.4,52.52,13.4,Europe/Berlin
+191,2023-10-28,2023,October  ,10,Berlin,Germany,13.4,9.4,10.8,52.52,13.4,Europe/Berlin
+192,2023-10-19,2023,October  ,10,Berlin,Germany,8.3,7.1,7.6,52.52,13.4,Europe/Berlin
+193,2023-10-07,2023,October  ,10,Berlin,Germany,17.0,10.7,14.7,52.52,13.4,Europe/Berlin
+194,2023-10-11,2023,October  ,10,Berlin,Germany,22.9,14.4,18.5,52.52,13.4,Europe/Berlin
+195,2023-10-24,2023,October  ,10,Berlin,Germany,13.2,10.5,11.6,52.52,13.4,Europe/Berlin
+196,2023-10-17,2023,October  ,10,Berlin,Germany,12.0,5.9,8.5,52.52,13.4,Europe/Berlin
+197,2023-11-13,2023,November ,11,Berlin,Germany,10.6,4.4,7.0,52.52,13.4,Europe/Berlin
+198,2023-11-21,2023,November ,11,Berlin,Germany,8.4,1.7,5.0,52.52,13.4,Europe/Berlin
+199,2023-11-28,2023,November ,11,Berlin,Germany,0.4,-4.6,-1.3,52.52,13.4,Europe/Berlin
+200,2023-11-22,2023,November ,11,Berlin,Germany,3.0,-0.5,1.3,52.52,13.4,Europe/Berlin
+201,2023-11-08,2023,November ,11,Berlin,Germany,10.7,7.8,9.1,52.52,13.4,Europe/Berlin
+202,2023-11-25,2023,November ,11,Berlin,Germany,3.1,-0.6,1.4,52.52,13.4,Europe/Berlin
+203,2023-11-19,2023,November ,11,Berlin,Germany,10.6,4.4,7.7,52.52,13.4,Europe/Berlin
+204,2023-11-01,2023,November ,11,Berlin,Germany,14.6,7.1,10.6,52.52,13.4,Europe/Berlin
+205,2023-11-18,2023,November ,11,Berlin,Germany,6.1,2.3,4.2,52.52,13.4,Europe/Berlin
+206,2023-11-30,2023,November ,11,Berlin,Germany,-0.9,-4.9,-3.6,52.52,13.4,Europe/Berlin
+207,2023-11-02,2023,November ,11,Berlin,Germany,14.9,8.9,12.0,52.52,13.4,Europe/Berlin
+208,2023-11-20,2023,November ,11,Berlin,Germany,10.1,8.5,9.2,52.52,13.4,Europe/Berlin
+209,2023-11-04,2023,November ,11,Berlin,Germany,11.7,6.5,8.8,52.52,13.4,Europe/Berlin
+210,2023-11-29,2023,November ,11,Berlin,Germany,0.4,-3.6,-1.5,52.52,13.4,Europe/Berlin
+211,2023-11-26,2023,November ,11,Berlin,Germany,2.0,-1.6,-0.1,52.52,13.4,Europe/Berlin
+212,2023-11-15,2023,November ,11,Berlin,Germany,9.7,5.4,7.3,52.52,13.4,Europe/Berlin
+213,2023-11-23,2023,November ,11,Berlin,Germany,10.6,1.9,7.4,52.52,13.4,Europe/Berlin
+214,2023-11-17,2023,November ,11,Berlin,Germany,5.4,2.5,4.4,52.52,13.4,Europe/Berlin
+215,2023-11-10,2023,November ,11,Berlin,Germany,11.4,6.6,9.5,52.52,13.4,Europe/Berlin
+216,2023-11-12,2023,November ,11,Berlin,Germany,8.5,4.6,6.5,52.52,13.4,Europe/Berlin
+217,2023-11-11,2023,November ,11,Berlin,Germany,8.2,5.7,7.1,52.52,13.4,Europe/Berlin
+218,2023-11-14,2023,November ,11,Berlin,Germany,11.3,9.4,10.5,52.52,13.4,Europe/Berlin
+219,2023-11-07,2023,November ,11,Berlin,Germany,11.8,8.3,9.9,52.52,13.4,Europe/Berlin
+220,2023-11-27,2023,November ,11,Berlin,Germany,1.5,-0.1,1.1,52.52,13.4,Europe/Berlin
+221,2023-11-06,2023,November ,11,Berlin,Germany,11.7,9.8,10.7,52.52,13.4,Europe/Berlin
+222,2023-11-05,2023,November ,11,Berlin,Germany,11.4,8.0,9.8,52.52,13.4,Europe/Berlin
+223,2023-11-09,2023,November ,11,Berlin,Germany,11.2,7.3,9.0,52.52,13.4,Europe/Berlin
+224,2023-11-03,2023,November ,11,Berlin,Germany,11.7,8.0,9.9,52.52,13.4,Europe/Berlin
+225,2023-11-16,2023,November ,11,Berlin,Germany,8.3,5.7,7.1,52.52,13.4,Europe/Berlin
+226,2023-11-24,2023,November ,11,Berlin,Germany,7.1,1.9,3.8,52.52,13.4,Europe/Berlin
+227,2023-12-19,2023,December ,12,Berlin,Germany,7.5,6.4,6.9,52.52,13.4,Europe/Berlin
+228,2023-12-30,2023,December ,12,Berlin,Germany,9.2,4.4,6.2,52.52,13.4,Europe/Berlin
+229,2023-12-16,2023,December ,12,Berlin,Germany,7.1,3.8,5.4,52.52,13.4,Europe/Berlin
+230,2023-12-10,2023,December ,12,Berlin,Germany,6.8,2.8,5.3,52.52,13.4,Europe/Berlin
+231,2023-12-26,2023,December ,12,Berlin,Germany,11.2,6.8,9.1,52.52,13.4,Europe/Berlin
+232,2023-12-15,2023,December ,12,Berlin,Germany,5.1,1.3,3.3,52.52,13.4,Europe/Berlin
+233,2023-12-21,2023,December ,12,Berlin,Germany,9.2,3.9,7.1,52.52,13.4,Europe/Berlin
+234,2023-12-25,2023,December ,12,Berlin,Germany,11.5,8.5,10.1,52.52,13.4,Europe/Berlin
+235,2023-12-09,2023,December ,12,Berlin,Germany,3.4,0.9,2.2,52.52,13.4,Europe/Berlin
+236,2023-12-18,2023,December ,12,Berlin,Germany,8.5,6.3,7.4,52.52,13.4,Europe/Berlin
+237,2023-12-02,2023,December ,12,Berlin,Germany,-1.2,-6.3,-4.4,52.52,13.4,Europe/Berlin
+238,2023-12-07,2023,December ,12,Berlin,Germany,0.8,-2.1,0.0,52.52,13.4,Europe/Berlin
+239,2023-12-01,2023,December ,12,Berlin,Germany,-1.3,-6.0,-3.5,52.52,13.4,Europe/Berlin
+240,2023-12-05,2023,December ,12,Berlin,Germany,0.0,-2.6,-1.3,52.52,13.4,Europe/Berlin
+241,2023-12-28,2023,December ,12,Berlin,Germany,8.6,5.5,7.0,52.52,13.4,Europe/Berlin
+242,2023-12-31,2023,December ,12,Berlin,Germany,7.9,4.1,5.7,52.52,13.4,Europe/Berlin
+243,2023-12-11,2023,December ,12,Berlin,Germany,8.9,5.8,7.5,52.52,13.4,Europe/Berlin
+244,2023-12-27,2023,December ,12,Berlin,Germany,6.1,3.1,4.7,52.52,13.4,Europe/Berlin
+245,2023-12-12,2023,December ,12,Berlin,Germany,6.6,4.2,5.9,52.52,13.4,Europe/Berlin
+246,2023-12-22,2023,December ,12,Berlin,Germany,4.8,2.3,3.3,52.52,13.4,Europe/Berlin
+247,2023-12-13,2023,December ,12,Berlin,Germany,4.7,2.2,4.2,52.52,13.4,Europe/Berlin
+248,2023-12-20,2023,December ,12,Berlin,Germany,6.5,4.4,5.5,52.52,13.4,Europe/Berlin
+249,2023-12-04,2023,December ,12,Berlin,Germany,-0.8,-5.4,-2.7,52.52,13.4,Europe/Berlin
+250,2023-12-23,2023,December ,12,Berlin,Germany,2.8,0.7,1.7,52.52,13.4,Europe/Berlin
+251,2023-12-14,2023,December ,12,Berlin,Germany,3.4,1.9,2.6,52.52,13.4,Europe/Berlin
+252,2023-12-29,2023,December ,12,Berlin,Germany,9.6,6.9,8.7,52.52,13.4,Europe/Berlin
+253,2023-12-24,2023,December ,12,Berlin,Germany,10.6,0.9,7.3,52.52,13.4,Europe/Berlin
+254,2023-12-06,2023,December ,12,Berlin,Germany,1.2,-0.5,0.3,52.52,13.4,Europe/Berlin
+255,2023-12-17,2023,December ,12,Berlin,Germany,9.6,7.7,8.5,52.52,13.4,Europe/Berlin
+256,2023-12-08,2023,December ,12,Berlin,Germany,0.3,-1.7,-0.2,52.52,13.4,Europe/Berlin
+257,2023-12-03,2023,December ,12,Berlin,Germany,-0.8,-5.2,-3.0,52.52,13.4,Europe/Berlin
+258,2024-01-28,2024,January  ,1,Berlin,Germany,6.6,0.9,3.1,52.52,13.4,Europe/Berlin
+259,2024-01-20,2024,January  ,1,Berlin,Germany,1.3,-2.7,-0.5,52.52,13.4,Europe/Berlin
+260,2024-01-21,2024,January  ,1,Berlin,Germany,1.7,-3.1,-0.5,52.52,13.4,Europe/Berlin
+261,2024-01-04,2024,January  ,1,Berlin,Germany,8.1,-0.4,4.3,52.52,13.4,Europe/Berlin
+262,2024-01-11,2024,January  ,1,Berlin,Germany,0.4,-3.6,-1.6,52.52,13.4,Europe/Berlin
+263,2024-01-02,2024,January  ,1,Berlin,Germany,7.1,3.6,5.0,52.52,13.4,Europe/Berlin
+264,2024-01-31,2024,January  ,1,Berlin,Germany,8.6,4.5,6.4,52.52,13.4,Europe/Berlin
+265,2024-01-23,2024,January  ,1,Berlin,Germany,6.1,3.2,4.9,52.52,13.4,Europe/Berlin
+266,2024-01-29,2024,January  ,1,Berlin,Germany,7.7,2.1,4.3,52.52,13.4,Europe/Berlin
+267,2024-01-01,2024,January  ,1,Berlin,Germany,7.0,5.4,6.1,52.52,13.4,Europe/Berlin
+268,2024-01-14,2024,January  ,1,Berlin,Germany,3.1,1.2,2.1,52.52,13.4,Europe/Berlin
+269,2024-01-06,2024,January  ,1,Berlin,Germany,1.3,-1.1,0.5,52.52,13.4,Europe/Berlin
+270,2024-01-10,2024,January  ,1,Berlin,Germany,-0.8,-5.7,-3.9,52.52,13.4,Europe/Berlin
+271,2024-01-15,2024,January  ,1,Berlin,Germany,2.3,-1.9,0.6,52.52,13.4,Europe/Berlin
+272,2024-01-27,2024,January  ,1,Berlin,Germany,5.5,2.3,4.4,52.52,13.4,Europe/Berlin
+273,2024-01-05,2024,January  ,1,Berlin,Germany,0.5,-0.9,-0.3,52.52,13.4,Europe/Berlin
+274,2024-01-30,2024,January  ,1,Berlin,Germany,8.3,2.8,5.3,52.52,13.4,Europe/Berlin
+275,2024-01-25,2024,January  ,1,Berlin,Germany,7.5,3.9,6.3,52.52,13.4,Europe/Berlin
+276,2024-01-24,2024,January  ,1,Berlin,Germany,11.3,3.7,8.1,52.52,13.4,Europe/Berlin
+277,2024-01-19,2024,January  ,1,Berlin,Germany,0.9,-3.8,-1.6,52.52,13.4,Europe/Berlin
+278,2024-01-17,2024,January  ,1,Berlin,Germany,0.1,-3.6,-1.7,52.52,13.4,Europe/Berlin
+279,2024-01-09,2024,January  ,1,Berlin,Germany,-3.0,-7.3,-5.6,52.52,13.4,Europe/Berlin
+280,2024-01-18,2024,January  ,1,Berlin,Germany,0.5,-2.9,-1.5,52.52,13.4,Europe/Berlin
+281,2024-01-16,2024,January  ,1,Berlin,Germany,0.4,-2.9,-0.9,52.52,13.4,Europe/Berlin
+282,2024-01-08,2024,January  ,1,Berlin,Germany,-4.7,-7.0,-5.7,52.52,13.4,Europe/Berlin
+283,2024-01-26,2024,January  ,1,Berlin,Germany,8.1,2.4,4.9,52.52,13.4,Europe/Berlin
+284,2024-01-13,2024,January  ,1,Berlin,Germany,2.7,-0.1,1.4,52.52,13.4,Europe/Berlin
+285,2024-01-03,2024,January  ,1,Berlin,Germany,9.7,7.7,9.1,52.52,13.4,Europe/Berlin
+286,2024-01-12,2024,January  ,1,Berlin,Germany,0.7,-0.9,0.0,52.52,13.4,Europe/Berlin
+287,2024-01-07,2024,January  ,1,Berlin,Germany,-1.6,-3.9,-2.5,52.52,13.4,Europe/Berlin
+288,2024-01-22,2024,January  ,1,Berlin,Germany,7.5,1.2,5.2,52.52,13.4,Europe/Berlin
+289,2024-02-04,2024,February ,2,Berlin,Germany,8.6,6.4,7.6,52.52,13.4,Europe/Berlin
+290,2024-02-27,2024,February ,2,Berlin,Germany,9.2,4.9,6.6,52.52,13.4,Europe/Berlin
+291,2024-02-11,2024,February ,2,Berlin,Germany,7.2,6.1,6.8,52.52,13.4,Europe/Berlin
+292,2024-02-17,2024,February ,2,Berlin,Germany,11.5,4.6,8.7,52.52,13.4,Europe/Berlin
+293,2024-02-20,2024,February ,2,Berlin,Germany,7.9,6.5,7.0,52.52,13.4,Europe/Berlin
+294,2024-02-28,2024,February ,2,Berlin,Germany,9.0,1.6,5.0,52.52,13.4,Europe/Berlin
+295,2024-02-13,2024,February ,2,Berlin,Germany,8.1,3.4,6.0,52.52,13.4,Europe/Berlin
+296,2024-02-01,2024,February ,2,Berlin,Germany,7.2,3.2,5.7,52.52,13.4,Europe/Berlin
+297,2024-02-18,2024,February ,2,Berlin,Germany,9.8,3.4,6.4,52.52,13.4,Europe/Berlin
+298,2024-02-05,2024,February ,2,Berlin,Germany,10.3,8.3,9.6,52.52,13.4,Europe/Berlin
+299,2024-02-07,2024,February ,2,Berlin,Germany,10.2,2.6,4.1,52.52,13.4,Europe/Berlin
+300,2024-02-02,2024,February ,2,Berlin,Germany,8.2,2.6,4.9,52.52,13.4,Europe/Berlin
+301,2024-02-08,2024,February ,2,Berlin,Germany,3.9,1.7,2.4,52.52,13.4,Europe/Berlin
+302,2024-02-10,2024,February ,2,Berlin,Germany,9.5,5.8,7.2,52.52,13.4,Europe/Berlin
+303,2024-02-06,2024,February ,2,Berlin,Germany,10.9,6.1,9.4,52.52,13.4,Europe/Berlin
+304,2024-02-09,2024,February ,2,Berlin,Germany,6.9,1.5,3.8,52.52,13.4,Europe/Berlin
+305,2024-02-26,2024,February ,2,Berlin,Germany,10.2,3.6,6.6,52.52,13.4,Europe/Berlin
+306,2024-02-24,2024,February ,2,Berlin,Germany,10.1,3.2,6.2,52.52,13.4,Europe/Berlin
+307,2024-02-19,2024,February ,2,Berlin,Germany,8.2,6.4,7.5,52.52,13.4,Europe/Berlin
+308,2024-02-14,2024,February ,2,Berlin,Germany,8.8,3.7,6.3,52.52,13.4,Europe/Berlin
+309,2024-02-22,2024,February ,2,Berlin,Germany,10.8,7.2,8.6,52.52,13.4,Europe/Berlin
+310,2024-02-15,2024,February ,2,Berlin,Germany,11.6,7.7,9.1,52.52,13.4,Europe/Berlin
+311,2024-02-03,2024,February ,2,Berlin,Germany,9.7,8.5,9.2,52.52,13.4,Europe/Berlin
+312,2024-02-16,2024,February ,2,Berlin,Germany,14.7,7.9,10.8,52.52,13.4,Europe/Berlin
+313,2024-02-29,2024,February ,2,Berlin,Germany,11.8,2.1,6.7,52.52,13.4,Europe/Berlin
+314,2024-02-12,2024,February ,2,Berlin,Germany,8.9,5.4,7.1,52.52,13.4,Europe/Berlin
+315,2024-02-21,2024,February ,2,Berlin,Germany,10.6,6.6,8.3,52.52,13.4,Europe/Berlin
+316,2024-02-25,2024,February ,2,Berlin,Germany,11.3,3.6,6.7,52.52,13.4,Europe/Berlin
+317,2024-02-23,2024,February ,2,Berlin,Germany,11.8,5.1,7.2,52.52,13.4,Europe/Berlin
+318,2024-03-12,2024,March    ,3,Berlin,Germany,11.6,7.0,8.7,52.52,13.4,Europe/Berlin
+319,2024-03-17,2024,March    ,3,Berlin,Germany,9.1,2.6,5.5,52.52,13.4,Europe/Berlin
+320,2024-03-22,2024,March    ,3,Berlin,Germany,13.0,6.5,9.4,52.52,13.4,Europe/Berlin
+321,2024-03-01,2024,March    ,3,Berlin,Germany,13.6,5.8,9.2,52.52,13.4,Europe/Berlin
+322,2024-03-20,2024,March    ,3,Berlin,Germany,14.4,4.6,9.1,52.52,13.4,Europe/Berlin
+323,2024-03-07,2024,March    ,3,Berlin,Germany,7.7,2.0,4.9,52.52,13.4,Europe/Berlin
+324,2024-03-24,2024,March    ,3,Berlin,Germany,7.0,2.0,4.5,52.52,13.4,Europe/Berlin
+325,2024-03-13,2024,March    ,3,Berlin,Germany,13.1,6.3,9.7,52.52,13.4,Europe/Berlin
+326,2024-03-05,2024,March    ,3,Berlin,Germany,7.7,2.5,4.8,52.52,13.4,Europe/Berlin
+327,2024-03-03,2024,March    ,3,Berlin,Germany,13.3,6.9,10.1,52.52,13.4,Europe/Berlin
+328,2024-03-26,2024,March    ,3,Berlin,Germany,13.6,1.6,7.5,52.52,13.4,Europe/Berlin
+329,2024-03-10,2024,March    ,3,Berlin,Germany,11.9,4.5,8.4,52.52,13.4,Europe/Berlin
+330,2024-03-09,2024,March    ,3,Berlin,Germany,10.4,1.7,5.7,52.52,13.4,Europe/Berlin
+331,2024-03-29,2024,March    ,3,Berlin,Germany,15.4,5.4,10.5,52.52,13.4,Europe/Berlin
+332,2024-03-16,2024,March    ,3,Berlin,Germany,13.2,4.7,9.0,52.52,13.4,Europe/Berlin
+333,2024-03-06,2024,March    ,3,Berlin,Germany,9.4,1.8,5.5,52.52,13.4,Europe/Berlin
+334,2024-03-21,2024,March    ,3,Berlin,Germany,13.2,6.9,9.7,52.52,13.4,Europe/Berlin
+335,2024-03-31,2024,March    ,3,Berlin,Germany,18.4,10.6,14.4,52.52,13.4,Europe/Berlin
+336,2024-03-25,2024,March    ,3,Berlin,Germany,6.5,3.7,5.3,52.52,13.4,Europe/Berlin
+337,2024-03-28,2024,March    ,3,Berlin,Germany,10.4,6.8,8.6,52.52,13.4,Europe/Berlin
+338,2024-03-18,2024,March    ,3,Berlin,Germany,7.9,-0.1,3.7,52.52,13.4,Europe/Berlin
+339,2024-03-15,2024,March    ,3,Berlin,Germany,17.7,9.4,12.3,52.52,13.4,Europe/Berlin
+340,2024-03-30,2024,March    ,3,Berlin,Germany,20.8,8.1,14.0,52.52,13.4,Europe/Berlin
+341,2024-03-02,2024,March    ,3,Berlin,Germany,12.6,8.0,9.2,52.52,13.4,Europe/Berlin
+342,2024-03-04,2024,March    ,3,Berlin,Germany,9.7,6.7,9.0,52.52,13.4,Europe/Berlin
+343,2024-03-27,2024,March    ,3,Berlin,Germany,17.2,5.2,11.1,52.52,13.4,Europe/Berlin
+344,2024-03-23,2024,March    ,3,Berlin,Germany,9.2,4.2,6.5,52.52,13.4,Europe/Berlin
+345,2024-03-11,2024,March    ,3,Berlin,Germany,12.7,8.3,9.6,52.52,13.4,Europe/Berlin
+346,2024-03-08,2024,March    ,3,Berlin,Germany,9.1,0.6,4.5,52.52,13.4,Europe/Berlin
+347,2024-03-14,2024,March    ,3,Berlin,Germany,14.9,8.9,11.4,52.52,13.4,Europe/Berlin
+348,2024-03-19,2024,March    ,3,Berlin,Germany,10.2,0.3,5.2,52.52,13.4,Europe/Berlin
+349,2024-04-14,2024,April    ,4,Berlin,Germany,16.6,8.8,13.9,52.52,13.4,Europe/Berlin
+350,2024-04-07,2024,April    ,4,Berlin,Germany,23.1,14.2,18.3,52.52,13.4,Europe/Berlin
+351,2024-04-02,2024,April    ,4,Berlin,Germany,12.2,8.9,10.0,52.52,13.4,Europe/Berlin
+352,2024-04-13,2024,April    ,4,Berlin,Germany,20.7,12.1,16.4,52.52,13.4,Europe/Berlin
+353,2024-04-03,2024,April    ,4,Berlin,Germany,10.2,3.8,7.4,52.52,13.4,Europe/Berlin
+354,2024-04-01,2024,April    ,4,Berlin,Germany,18.8,9.9,13.5,52.52,13.4,Europe/Berlin
+355,2024-04-16,2024,April    ,4,Berlin,Germany,7.8,3.5,5.7,52.52,13.4,Europe/Berlin
+356,2024-04-10,2024,April    ,4,Berlin,Germany,12.9,9.2,11.2,52.52,13.4,Europe/Berlin
+357,2024-04-15,2024,April    ,4,Berlin,Germany,11.4,5.8,8.9,52.52,13.4,Europe/Berlin
+358,2024-04-06,2024,April    ,4,Berlin,Germany,21.5,11.7,16.2,52.52,13.4,Europe/Berlin
+359,2024-04-05,2024,April    ,4,Berlin,Germany,18.9,7.8,13.2,52.52,13.4,Europe/Berlin
+360,2024-04-11,2024,April    ,4,Berlin,Germany,17.9,7.2,12.7,52.52,13.4,Europe/Berlin
+361,2024-04-09,2024,April    ,4,Berlin,Germany,26.3,10.6,17.8,52.52,13.4,Europe/Berlin
+362,2024-04-08,2024,April    ,4,Berlin,Germany,27.1,15.8,20.5,52.52,13.4,Europe/Berlin
+363,2024-04-04,2024,April    ,4,Berlin,Germany,13.2,9.1,10.6,52.52,13.4,Europe/Berlin
+364,2024-04-12,2024,April    ,4,Berlin,Germany,18.9,11.7,14.6,52.52,13.4,Europe/Berlin
+365,2023-04-30,2023,April    ,4,Tokyo,Japan,23.5,17.8,20.6,35.69,139.69,Asia/Tokyo
+366,2023-04-20,2023,April    ,4,Tokyo,Japan,22.8,15.4,18.9,35.69,139.69,Asia/Tokyo
+367,2023-04-21,2023,April    ,4,Tokyo,Japan,23.1,16.8,19.7,35.69,139.69,Asia/Tokyo
+368,2023-04-23,2023,April    ,4,Tokyo,Japan,17.4,10.7,14.0,35.69,139.69,Asia/Tokyo
+369,2023-04-19,2023,April    ,4,Tokyo,Japan,22.7,11.8,17.1,35.69,139.69,Asia/Tokyo
+370,2023-04-22,2023,April    ,4,Tokyo,Japan,17.4,13.3,15.4,35.69,139.69,Asia/Tokyo
+371,2023-04-24,2023,April    ,4,Tokyo,Japan,15.6,10.3,13.1,35.69,139.69,Asia/Tokyo
+372,2023-04-28,2023,April    ,4,Tokyo,Japan,22.4,13.7,18.2,35.69,139.69,Asia/Tokyo
+373,2023-04-27,2023,April    ,4,Tokyo,Japan,19.9,12.2,16.2,35.69,139.69,Asia/Tokyo
+374,2023-04-25,2023,April    ,4,Tokyo,Japan,15.5,10.2,13.5,35.69,139.69,Asia/Tokyo
+375,2023-04-29,2023,April    ,4,Tokyo,Japan,22.2,14.8,18.5,35.69,139.69,Asia/Tokyo
+376,2023-04-18,2023,April    ,4,Tokyo,Japan,18.2,10.1,14.0,35.69,139.69,Asia/Tokyo
+377,2023-04-26,2023,April    ,4,Tokyo,Japan,17.9,14.1,15.9,35.69,139.69,Asia/Tokyo
+378,2023-05-21,2023,May      ,5,Tokyo,Japan,24.5,16.5,20.2,35.69,139.69,Asia/Tokyo
+379,2023-05-26,2023,May      ,5,Tokyo,Japan,22.5,16.6,19.4,35.69,139.69,Asia/Tokyo
+380,2023-05-24,2023,May      ,5,Tokyo,Japan,23.2,12.1,17.7,35.69,139.69,Asia/Tokyo
+381,2023-05-25,2023,May      ,5,Tokyo,Japan,22.3,14.7,18.2,35.69,139.69,Asia/Tokyo
+382,2023-05-05,2023,May      ,5,Tokyo,Japan,24.2,16.0,20.0,35.69,139.69,Asia/Tokyo
+383,2023-05-29,2023,May      ,5,Tokyo,Japan,22.0,18.9,20.5,35.69,139.69,Asia/Tokyo
+384,2023-05-20,2023,May      ,5,Tokyo,Japan,22.8,17.2,19.2,35.69,139.69,Asia/Tokyo
+385,2023-05-17,2023,May      ,5,Tokyo,Japan,27.2,15.6,21.7,35.69,139.69,Asia/Tokyo
+386,2023-05-12,2023,May      ,5,Tokyo,Japan,19.7,13.0,16.5,35.69,139.69,Asia/Tokyo
+387,2023-05-07,2023,May      ,5,Tokyo,Japan,21.0,12.4,17.2,35.69,139.69,Asia/Tokyo
+388,2023-05-31,2023,May      ,5,Tokyo,Japan,18.5,16.9,17.6,35.69,139.69,Asia/Tokyo
+389,2023-05-09,2023,May      ,5,Tokyo,Japan,19.1,10.5,15.0,35.69,139.69,Asia/Tokyo
+390,2023-05-22,2023,May      ,5,Tokyo,Japan,25.9,17.2,21.3,35.69,139.69,Asia/Tokyo
+391,2023-05-14,2023,May      ,5,Tokyo,Japan,20.0,16.6,17.8,35.69,139.69,Asia/Tokyo
+392,2023-05-11,2023,May      ,5,Tokyo,Japan,19.5,13.5,16.3,35.69,139.69,Asia/Tokyo
+393,2023-05-06,2023,May      ,5,Tokyo,Japan,26.6,17.7,21.8,35.69,139.69,Asia/Tokyo
+394,2023-05-08,2023,May      ,5,Tokyo,Japan,15.6,11.1,13.1,35.69,139.69,Asia/Tokyo
+395,2023-05-27,2023,May      ,5,Tokyo,Japan,24.4,16.2,20.2,35.69,139.69,Asia/Tokyo
+396,2023-05-23,2023,May      ,5,Tokyo,Japan,16.9,13.9,14.8,35.69,139.69,Asia/Tokyo
+397,2023-05-28,2023,May      ,5,Tokyo,Japan,24.1,17.9,20.8,35.69,139.69,Asia/Tokyo
+398,2023-05-15,2023,May      ,5,Tokyo,Japan,16.6,15.0,16.1,35.69,139.69,Asia/Tokyo
+399,2023-05-01,2023,May      ,5,Tokyo,Japan,20.0,15.1,17.0,35.69,139.69,Asia/Tokyo
+400,2023-05-18,2023,May      ,5,Tokyo,Japan,29.1,19.1,23.7,35.69,139.69,Asia/Tokyo
+401,2023-05-19,2023,May      ,5,Tokyo,Japan,21.3,17.3,19.3,35.69,139.69,Asia/Tokyo
+402,2023-05-13,2023,May      ,5,Tokyo,Japan,17.1,15.5,16.2,35.69,139.69,Asia/Tokyo
+403,2023-05-30,2023,May      ,5,Tokyo,Japan,21.4,19.6,20.4,35.69,139.69,Asia/Tokyo
+404,2023-05-04,2023,May      ,5,Tokyo,Japan,24.1,14.4,19.2,35.69,139.69,Asia/Tokyo
+405,2023-05-10,2023,May      ,5,Tokyo,Japan,23.6,11.5,17.4,35.69,139.69,Asia/Tokyo
+406,2023-05-02,2023,May      ,5,Tokyo,Japan,21.4,12.2,16.6,35.69,139.69,Asia/Tokyo
+407,2023-05-03,2023,May      ,5,Tokyo,Japan,21.0,12.5,17.4,35.69,139.69,Asia/Tokyo
+408,2023-05-16,2023,May      ,5,Tokyo,Japan,24.7,12.5,18.6,35.69,139.69,Asia/Tokyo
+409,2023-06-30,2023,June     ,6,Tokyo,Japan,28.1,24.2,25.9,35.69,139.69,Asia/Tokyo
+410,2023-06-19,2023,June     ,6,Tokyo,Japan,26.3,20.2,22.9,35.69,139.69,Asia/Tokyo
+411,2023-06-26,2023,June     ,6,Tokyo,Japan,27.4,21.5,24.5,35.69,139.69,Asia/Tokyo
+412,2023-06-18,2023,June     ,6,Tokyo,Japan,29.0,21.5,24.9,35.69,139.69,Asia/Tokyo
+413,2023-06-13,2023,June     ,6,Tokyo,Japan,27.8,19.6,23.0,35.69,139.69,Asia/Tokyo
+414,2023-06-02,2023,June     ,6,Tokyo,Japan,22.4,19.0,20.6,35.69,139.69,Asia/Tokyo
+415,2023-06-29,2023,June     ,6,Tokyo,Japan,30.9,22.6,26.8,35.69,139.69,Asia/Tokyo
+416,2023-06-06,2023,June     ,6,Tokyo,Japan,24.4,19.1,21.5,35.69,139.69,Asia/Tokyo
+417,2023-06-20,2023,June     ,6,Tokyo,Japan,25.2,19.7,22.0,35.69,139.69,Asia/Tokyo
+418,2023-06-25,2023,June     ,6,Tokyo,Japan,27.9,21.0,24.4,35.69,139.69,Asia/Tokyo
+419,2023-06-05,2023,June     ,6,Tokyo,Japan,27.8,18.1,22.5,35.69,139.69,Asia/Tokyo
+420,2023-06-11,2023,June     ,6,Tokyo,Japan,21.4,19.5,20.3,35.69,139.69,Asia/Tokyo
+421,2023-06-17,2023,June     ,6,Tokyo,Japan,29.4,20.2,24.6,35.69,139.69,Asia/Tokyo
+422,2023-06-07,2023,June     ,6,Tokyo,Japan,28.4,18.4,22.8,35.69,139.69,Asia/Tokyo
+423,2023-06-01,2023,June     ,6,Tokyo,Japan,23.4,15.2,19.5,35.69,139.69,Asia/Tokyo
+424,2023-06-22,2023,June     ,6,Tokyo,Japan,21.6,16.6,19.4,35.69,139.69,Asia/Tokyo
+425,2023-06-24,2023,June     ,6,Tokyo,Japan,27.1,20.6,23.8,35.69,139.69,Asia/Tokyo
+426,2023-06-23,2023,June     ,6,Tokyo,Japan,25.1,18.6,22.1,35.69,139.69,Asia/Tokyo
+427,2023-06-21,2023,June     ,6,Tokyo,Japan,26.6,20.2,22.5,35.69,139.69,Asia/Tokyo
+428,2023-06-09,2023,June     ,6,Tokyo,Japan,22.8,18.4,20.3,35.69,139.69,Asia/Tokyo
+429,2023-06-16,2023,June     ,6,Tokyo,Japan,27.5,20.4,23.2,35.69,139.69,Asia/Tokyo
+430,2023-06-14,2023,June     ,6,Tokyo,Japan,22.9,21.1,21.9,35.69,139.69,Asia/Tokyo
+431,2023-06-08,2023,June     ,6,Tokyo,Japan,26.6,19.1,22.5,35.69,139.69,Asia/Tokyo
+432,2023-06-27,2023,June     ,6,Tokyo,Japan,26.0,21.7,24.0,35.69,139.69,Asia/Tokyo
+433,2023-06-10,2023,June     ,6,Tokyo,Japan,24.5,20.0,21.9,35.69,139.69,Asia/Tokyo
+434,2023-06-28,2023,June     ,6,Tokyo,Japan,30.0,23.8,26.3,35.69,139.69,Asia/Tokyo
+435,2023-06-03,2023,June     ,6,Tokyo,Japan,20.7,18.0,19.4,35.69,139.69,Asia/Tokyo
+436,2023-06-12,2023,June     ,6,Tokyo,Japan,23.3,20.7,21.7,35.69,139.69,Asia/Tokyo
+437,2023-06-15,2023,June     ,6,Tokyo,Japan,24.2,20.9,22.1,35.69,139.69,Asia/Tokyo
+438,2023-06-04,2023,June     ,6,Tokyo,Japan,24.1,17.6,21.0,35.69,139.69,Asia/Tokyo
+439,2023-07-30,2023,July     ,7,Tokyo,Japan,35.7,26.2,30.1,35.69,139.69,Asia/Tokyo
+440,2023-07-29,2023,July     ,7,Tokyo,Japan,33.8,26.6,29.6,35.69,139.69,Asia/Tokyo
+441,2023-07-18,2023,July     ,7,Tokyo,Japan,33.9,26.5,30.0,35.69,139.69,Asia/Tokyo
+442,2023-07-17,2023,July     ,7,Tokyo,Japan,34.7,27.3,30.2,35.69,139.69,Asia/Tokyo
+443,2023-07-12,2023,July     ,7,Tokyo,Japan,33.9,25.7,29.0,35.69,139.69,Asia/Tokyo
+444,2023-07-10,2023,July     ,7,Tokyo,Japan,33.3,25.0,28.8,35.69,139.69,Asia/Tokyo
+445,2023-07-28,2023,July     ,7,Tokyo,Japan,33.5,27.0,29.6,35.69,139.69,Asia/Tokyo
+446,2023-07-15,2023,July     ,7,Tokyo,Japan,29.5,26.2,27.5,35.69,139.69,Asia/Tokyo
+447,2023-07-27,2023,July     ,7,Tokyo,Japan,34.9,27.4,30.1,35.69,139.69,Asia/Tokyo
+448,2023-07-11,2023,July     ,7,Tokyo,Japan,32.2,25.4,28.9,35.69,139.69,Asia/Tokyo
+449,2023-07-21,2023,July     ,7,Tokyo,Japan,30.0,24.4,27.0,35.69,139.69,Asia/Tokyo
+450,2023-07-19,2023,July     ,7,Tokyo,Japan,32.2,25.3,28.5,35.69,139.69,Asia/Tokyo
+451,2023-07-22,2023,July     ,7,Tokyo,Japan,31.8,23.9,27.2,35.69,139.69,Asia/Tokyo
+452,2023-07-02,2023,July     ,7,Tokyo,Japan,31.4,22.1,25.8,35.69,139.69,Asia/Tokyo
+453,2023-07-09,2023,July     ,7,Tokyo,Japan,29.3,25.7,27.3,35.69,139.69,Asia/Tokyo
+454,2023-07-25,2023,July     ,7,Tokyo,Japan,34.6,24.1,28.7,35.69,139.69,Asia/Tokyo
+455,2023-07-14,2023,July     ,7,Tokyo,Japan,29.8,25.7,27.2,35.69,139.69,Asia/Tokyo
+456,2023-07-05,2023,July     ,7,Tokyo,Japan,27.3,22.4,24.6,35.69,139.69,Asia/Tokyo
+457,2023-07-26,2023,July     ,7,Tokyo,Japan,35.8,25.7,29.9,35.69,139.69,Asia/Tokyo
+458,2023-07-24,2023,July     ,7,Tokyo,Japan,31.6,23.3,27.5,35.69,139.69,Asia/Tokyo
+459,2023-07-03,2023,July     ,7,Tokyo,Japan,29.8,24.0,26.4,35.69,139.69,Asia/Tokyo
+460,2023-07-16,2023,July     ,7,Tokyo,Japan,34.2,25.3,29.2,35.69,139.69,Asia/Tokyo
+461,2023-07-20,2023,July     ,7,Tokyo,Japan,28.8,25.7,26.8,35.69,139.69,Asia/Tokyo
+462,2023-07-23,2023,July     ,7,Tokyo,Japan,31.7,23.4,27.1,35.69,139.69,Asia/Tokyo
+463,2023-07-31,2023,July     ,7,Tokyo,Japan,34.5,27.1,30.3,35.69,139.69,Asia/Tokyo
+464,2023-07-06,2023,July     ,7,Tokyo,Japan,31.0,22.3,25.6,35.69,139.69,Asia/Tokyo
+465,2023-07-04,2023,July     ,7,Tokyo,Japan,28.6,21.6,25.2,35.69,139.69,Asia/Tokyo
+466,2023-07-07,2023,July     ,7,Tokyo,Japan,31.0,24.0,27.2,35.69,139.69,Asia/Tokyo
+467,2023-07-01,2023,July     ,7,Tokyo,Japan,27.3,23.1,25.2,35.69,139.69,Asia/Tokyo
+468,2023-07-08,2023,July     ,7,Tokyo,Japan,29.3,23.9,26.5,35.69,139.69,Asia/Tokyo
+469,2023-07-13,2023,July     ,7,Tokyo,Japan,29.2,25.9,27.2,35.69,139.69,Asia/Tokyo
+470,2023-08-14,2023,August   ,8,Tokyo,Japan,31.5,26.5,28.8,35.69,139.69,Asia/Tokyo
+471,2023-08-30,2023,August   ,8,Tokyo,Japan,31.3,27.6,29.2,35.69,139.69,Asia/Tokyo
+472,2023-08-03,2023,August   ,8,Tokyo,Japan,33.9,26.2,29.8,35.69,139.69,Asia/Tokyo
+473,2023-08-28,2023,August   ,8,Tokyo,Japan,32.2,27.1,29.4,35.69,139.69,Asia/Tokyo
+474,2023-08-12,2023,August   ,8,Tokyo,Japan,32.3,25.6,28.7,35.69,139.69,Asia/Tokyo
+475,2023-08-06,2023,August   ,8,Tokyo,Japan,31.5,27.0,28.5,35.69,139.69,Asia/Tokyo
+476,2023-08-19,2023,August   ,8,Tokyo,Japan,33.6,27.5,29.9,35.69,139.69,Asia/Tokyo
+477,2023-08-21,2023,August   ,8,Tokyo,Japan,33.3,26.9,30.0,35.69,139.69,Asia/Tokyo
+478,2023-08-16,2023,August   ,8,Tokyo,Japan,30.7,25.9,28.2,35.69,139.69,Asia/Tokyo
+479,2023-08-17,2023,August   ,8,Tokyo,Japan,31.7,27.0,29.0,35.69,139.69,Asia/Tokyo
+480,2023-08-31,2023,August   ,8,Tokyo,Japan,31.3,26.8,28.6,35.69,139.69,Asia/Tokyo
+481,2023-08-18,2023,August   ,8,Tokyo,Japan,32.2,26.6,29.3,35.69,139.69,Asia/Tokyo
+482,2023-08-04,2023,August   ,8,Tokyo,Japan,33.8,26.7,30.4,35.69,139.69,Asia/Tokyo
+483,2023-08-08,2023,August   ,8,Tokyo,Japan,32.3,27.2,29.4,35.69,139.69,Asia/Tokyo
+484,2023-08-26,2023,August   ,8,Tokyo,Japan,33.6,27.2,29.6,35.69,139.69,Asia/Tokyo
+485,2023-08-24,2023,August   ,8,Tokyo,Japan,31.1,26.5,28.6,35.69,139.69,Asia/Tokyo
+486,2023-08-02,2023,August   ,8,Tokyo,Japan,33.9,26.3,29.6,35.69,139.69,Asia/Tokyo
+487,2023-08-11,2023,August   ,8,Tokyo,Japan,31.5,25.8,28.6,35.69,139.69,Asia/Tokyo
+488,2023-08-23,2023,August   ,8,Tokyo,Japan,30.6,26.9,28.6,35.69,139.69,Asia/Tokyo
+489,2023-08-09,2023,August   ,8,Tokyo,Japan,30.3,27.1,28.5,35.69,139.69,Asia/Tokyo
+490,2023-08-15,2023,August   ,8,Tokyo,Japan,31.0,26.1,28.3,35.69,139.69,Asia/Tokyo
+491,2023-08-22,2023,August   ,8,Tokyo,Japan,32.8,27.1,29.7,35.69,139.69,Asia/Tokyo
+492,2023-08-01,2023,August   ,8,Tokyo,Japan,33.2,27.2,29.3,35.69,139.69,Asia/Tokyo
+493,2023-08-10,2023,August   ,8,Tokyo,Japan,32.0,26.4,28.6,35.69,139.69,Asia/Tokyo
+494,2023-08-27,2023,August   ,8,Tokyo,Japan,31.7,27.0,29.1,35.69,139.69,Asia/Tokyo
+495,2023-08-05,2023,August   ,8,Tokyo,Japan,32.5,28.0,29.8,35.69,139.69,Asia/Tokyo
+496,2023-08-25,2023,August   ,8,Tokyo,Japan,32.2,26.3,29.0,35.69,139.69,Asia/Tokyo
+497,2023-08-29,2023,August   ,8,Tokyo,Japan,32.3,27.8,29.5,35.69,139.69,Asia/Tokyo
+498,2023-08-07,2023,August   ,8,Tokyo,Japan,32.3,26.7,29.0,35.69,139.69,Asia/Tokyo
+499,2023-08-20,2023,August   ,8,Tokyo,Japan,33.5,27.9,30.3,35.69,139.69,Asia/Tokyo
+500,2023-08-13,2023,August   ,8,Tokyo,Japan,32.6,26.9,28.9,35.69,139.69,Asia/Tokyo
+501,2023-09-22,2023,September,9,Tokyo,Japan,29.0,22.7,26.2,35.69,139.69,Asia/Tokyo
+502,2023-09-20,2023,September,9,Tokyo,Japan,30.7,27.2,28.9,35.69,139.69,Asia/Tokyo
+503,2023-09-18,2023,September,9,Tokyo,Japan,31.1,27.0,28.8,35.69,139.69,Asia/Tokyo
+504,2023-09-05,2023,September,9,Tokyo,Japan,32.1,26.7,29.3,35.69,139.69,Asia/Tokyo
+505,2023-09-29,2023,September,9,Tokyo,Japan,27.3,24.1,25.3,35.69,139.69,Asia/Tokyo
+506,2023-09-08,2023,September,9,Tokyo,Japan,24.5,21.6,23.0,35.69,139.69,Asia/Tokyo
+507,2023-09-17,2023,September,9,Tokyo,Japan,31.1,27.3,29.0,35.69,139.69,Asia/Tokyo
+508,2023-09-19,2023,September,9,Tokyo,Japan,31.7,27.1,29.1,35.69,139.69,Asia/Tokyo
+509,2023-09-27,2023,September,9,Tokyo,Japan,28.0,23.8,25.4,35.69,139.69,Asia/Tokyo
+510,2023-09-30,2023,September,9,Tokyo,Japan,28.5,24.2,26.2,35.69,139.69,Asia/Tokyo
+511,2023-09-24,2023,September,9,Tokyo,Japan,25.2,21.1,22.9,35.69,139.69,Asia/Tokyo
+512,2023-09-10,2023,September,9,Tokyo,Japan,30.5,25.5,27.6,35.69,139.69,Asia/Tokyo
+513,2023-09-25,2023,September,9,Tokyo,Japan,25.5,20.0,23.0,35.69,139.69,Asia/Tokyo
+514,2023-09-02,2023,September,9,Tokyo,Japan,32.5,26.8,29.1,35.69,139.69,Asia/Tokyo
+515,2023-09-11,2023,September,9,Tokyo,Japan,28.9,26.2,27.3,35.69,139.69,Asia/Tokyo
+516,2023-09-09,2023,September,9,Tokyo,Japan,29.5,23.1,26.2,35.69,139.69,Asia/Tokyo
+517,2023-09-13,2023,September,9,Tokyo,Japan,31.5,25.6,28.0,35.69,139.69,Asia/Tokyo
+518,2023-09-16,2023,September,9,Tokyo,Japan,31.4,26.8,28.7,35.69,139.69,Asia/Tokyo
+519,2023-09-04,2023,September,9,Tokyo,Japan,29.1,24.8,26.7,35.69,139.69,Asia/Tokyo
+520,2023-09-15,2023,September,9,Tokyo,Japan,31.8,26.8,29.0,35.69,139.69,Asia/Tokyo
+521,2023-09-14,2023,September,9,Tokyo,Japan,30.8,26.3,28.4,35.69,139.69,Asia/Tokyo
+522,2023-09-21,2023,September,9,Tokyo,Japan,30.4,25.2,27.4,35.69,139.69,Asia/Tokyo
+523,2023-09-01,2023,September,9,Tokyo,Japan,31.6,26.5,28.6,35.69,139.69,Asia/Tokyo
+524,2023-09-23,2023,September,9,Tokyo,Japan,22.9,20.8,22.0,35.69,139.69,Asia/Tokyo
+525,2023-09-03,2023,September,9,Tokyo,Japan,32.0,25.3,27.8,35.69,139.69,Asia/Tokyo
+526,2023-09-07,2023,September,9,Tokyo,Japan,30.9,25.3,27.3,35.69,139.69,Asia/Tokyo
+527,2023-09-26,2023,September,9,Tokyo,Japan,28.1,21.7,24.7,35.69,139.69,Asia/Tokyo
+528,2023-09-06,2023,September,9,Tokyo,Japan,30.6,27.4,28.9,35.69,139.69,Asia/Tokyo
+529,2023-09-12,2023,September,9,Tokyo,Japan,30.5,25.8,27.8,35.69,139.69,Asia/Tokyo
+530,2023-09-28,2023,September,9,Tokyo,Japan,30.7,23.8,27.2,35.69,139.69,Asia/Tokyo
+531,2023-10-18,2023,October  ,10,Tokyo,Japan,22.9,18.5,20.5,35.69,139.69,Asia/Tokyo
+532,2023-10-09,2023,October  ,10,Tokyo,Japan,17.9,16.2,16.8,35.69,139.69,Asia/Tokyo
+533,2023-10-11,2023,October  ,10,Tokyo,Japan,22.7,18.3,20.4,35.69,139.69,Asia/Tokyo
+534,2023-10-26,2023,October  ,10,Tokyo,Japan,22.3,16.8,19.5,35.69,139.69,Asia/Tokyo
+535,2023-10-20,2023,October  ,10,Tokyo,Japan,24.5,19.8,22.1,35.69,139.69,Asia/Tokyo
+536,2023-10-08,2023,October  ,10,Tokyo,Japan,22.2,17.7,19.7,35.69,139.69,Asia/Tokyo
+537,2023-10-22,2023,October  ,10,Tokyo,Japan,18.2,13.6,16.0,35.69,139.69,Asia/Tokyo
+538,2023-10-27,2023,October  ,10,Tokyo,Japan,21.8,17.4,19.7,35.69,139.69,Asia/Tokyo
+539,2023-10-17,2023,October  ,10,Tokyo,Japan,23.7,18.4,20.8,35.69,139.69,Asia/Tokyo
+540,2023-10-10,2023,October  ,10,Tokyo,Japan,24.2,17.7,20.6,35.69,139.69,Asia/Tokyo
+541,2023-10-31,2023,October  ,10,Tokyo,Japan,18.3,17.1,17.7,35.69,139.69,Asia/Tokyo
+542,2023-10-05,2023,October  ,10,Tokyo,Japan,25.6,18.7,21.1,35.69,139.69,Asia/Tokyo
+543,2023-10-06,2023,October  ,10,Tokyo,Japan,24.0,18.2,20.9,35.69,139.69,Asia/Tokyo
+544,2023-10-01,2023,October  ,10,Tokyo,Japan,29.0,24.5,26.6,35.69,139.69,Asia/Tokyo
+545,2023-10-13,2023,October  ,10,Tokyo,Japan,22.8,18.4,20.3,35.69,139.69,Asia/Tokyo
+546,2023-10-04,2023,October  ,10,Tokyo,Japan,23.1,18.4,19.3,35.69,139.69,Asia/Tokyo
+547,2023-10-16,2023,October  ,10,Tokyo,Japan,23.3,17.2,20.3,35.69,139.69,Asia/Tokyo
+548,2023-10-14,2023,October  ,10,Tokyo,Japan,22.5,17.8,20.3,35.69,139.69,Asia/Tokyo
+549,2023-10-21,2023,October  ,10,Tokyo,Japan,21.3,15.1,18.8,35.69,139.69,Asia/Tokyo
+550,2023-10-19,2023,October  ,10,Tokyo,Japan,23.7,18.7,21.3,35.69,139.69,Asia/Tokyo
+551,2023-10-30,2023,October  ,10,Tokyo,Japan,20.2,14.9,17.8,35.69,139.69,Asia/Tokyo
+552,2023-10-29,2023,October  ,10,Tokyo,Japan,20.3,16.0,17.9,35.69,139.69,Asia/Tokyo
+553,2023-10-24,2023,October  ,10,Tokyo,Japan,21.9,17.2,19.6,35.69,139.69,Asia/Tokyo
+554,2023-10-15,2023,October  ,10,Tokyo,Japan,20.0,15.7,17.7,35.69,139.69,Asia/Tokyo
+555,2023-10-07,2023,October  ,10,Tokyo,Japan,22.8,18.3,20.4,35.69,139.69,Asia/Tokyo
+556,2023-10-23,2023,October  ,10,Tokyo,Japan,21.5,16.0,18.8,35.69,139.69,Asia/Tokyo
+557,2023-10-28,2023,October  ,10,Tokyo,Japan,22.3,17.0,19.7,35.69,139.69,Asia/Tokyo
+558,2023-10-25,2023,October  ,10,Tokyo,Japan,22.1,17.4,19.9,35.69,139.69,Asia/Tokyo
+559,2023-10-03,2023,October  ,10,Tokyo,Japan,25.7,21.6,23.2,35.69,139.69,Asia/Tokyo
+560,2023-10-02,2023,October  ,10,Tokyo,Japan,24.8,21.8,23.4,35.69,139.69,Asia/Tokyo
+561,2023-10-12,2023,October  ,10,Tokyo,Japan,22.5,18.3,20.2,35.69,139.69,Asia/Tokyo
+562,2023-11-18,2023,November ,11,Tokyo,Japan,15.9,11.0,13.5,35.69,139.69,Asia/Tokyo
+563,2023-11-09,2023,November ,11,Tokyo,Japan,19.8,16.9,18.2,35.69,139.69,Asia/Tokyo
+564,2023-11-19,2023,November ,11,Tokyo,Japan,15.9,10.2,13.2,35.69,139.69,Asia/Tokyo
+565,2023-11-17,2023,November ,11,Tokyo,Japan,15.1,12.3,13.4,35.69,139.69,Asia/Tokyo
+566,2023-11-01,2023,November ,11,Tokyo,Japan,21.5,17.1,19.3,35.69,139.69,Asia/Tokyo
+567,2023-11-16,2023,November ,11,Tokyo,Japan,16.9,11.7,14.4,35.69,139.69,Asia/Tokyo
+568,2023-11-20,2023,November ,11,Tokyo,Japan,17.0,11.9,13.7,35.69,139.69,Asia/Tokyo
+569,2023-11-22,2023,November ,11,Tokyo,Japan,18.9,12.9,15.9,35.69,139.69,Asia/Tokyo
+570,2023-11-24,2023,November ,11,Tokyo,Japan,21.3,13.0,17.1,35.69,139.69,Asia/Tokyo
+571,2023-11-11,2023,November ,11,Tokyo,Japan,17.6,12.9,14.9,35.69,139.69,Asia/Tokyo
+572,2023-11-04,2023,November ,11,Tokyo,Japan,24.4,18.9,21.6,35.69,139.69,Asia/Tokyo
+573,2023-11-23,2023,November ,11,Tokyo,Japan,19.8,14.3,16.6,35.69,139.69,Asia/Tokyo
+574,2023-11-10,2023,November ,11,Tokyo,Japan,19.7,16.0,17.9,35.69,139.69,Asia/Tokyo
+575,2023-11-29,2023,November ,11,Tokyo,Japan,15.5,11.0,13.2,35.69,139.69,Asia/Tokyo
+576,2023-11-13,2023,November ,11,Tokyo,Japan,15.4,8.9,11.7,35.69,139.69,Asia/Tokyo
+577,2023-11-21,2023,November ,11,Tokyo,Japan,17.5,9.9,13.7,35.69,139.69,Asia/Tokyo
+578,2023-11-02,2023,November ,11,Tokyo,Japan,23.9,17.9,20.8,35.69,139.69,Asia/Tokyo
+579,2023-11-15,2023,November ,11,Tokyo,Japan,14.5,12.0,13.2,35.69,139.69,Asia/Tokyo
+580,2023-11-12,2023,November ,11,Tokyo,Japan,11.9,9.8,10.6,35.69,139.69,Asia/Tokyo
+581,2023-11-25,2023,November ,11,Tokyo,Japan,13.4,10.2,11.6,35.69,139.69,Asia/Tokyo
+582,2023-11-07,2023,November ,11,Tokyo,Japan,24.1,18.4,22.1,35.69,139.69,Asia/Tokyo
+583,2023-11-27,2023,November ,11,Tokyo,Japan,14.8,10.2,12.5,35.69,139.69,Asia/Tokyo
+584,2023-11-14,2023,November ,11,Tokyo,Japan,15.4,10.2,13.0,35.69,139.69,Asia/Tokyo
+585,2023-11-30,2023,November ,11,Tokyo,Japan,15.0,9.3,12.0,35.69,139.69,Asia/Tokyo
+586,2023-11-26,2023,November ,11,Tokyo,Japan,12.1,9.5,10.7,35.69,139.69,Asia/Tokyo
+587,2023-11-08,2023,November ,11,Tokyo,Japan,19.8,16.2,17.9,35.69,139.69,Asia/Tokyo
+588,2023-11-05,2023,November ,11,Tokyo,Japan,23.3,19.6,21.0,35.69,139.69,Asia/Tokyo
+589,2023-11-03,2023,November ,11,Tokyo,Japan,23.7,18.8,21.1,35.69,139.69,Asia/Tokyo
+590,2023-11-06,2023,November ,11,Tokyo,Japan,24.0,19.9,21.9,35.69,139.69,Asia/Tokyo
+591,2023-11-28,2023,November ,11,Tokyo,Japan,20.2,12.8,15.3,35.69,139.69,Asia/Tokyo
+592,2023-12-25,2023,December ,12,Tokyo,Japan,9.7,5.6,7.8,35.69,139.69,Asia/Tokyo
+593,2023-12-03,2023,December ,12,Tokyo,Japan,13.6,8.3,10.6,35.69,139.69,Asia/Tokyo
+594,2023-12-08,2023,December ,12,Tokyo,Japan,14.5,9.6,12.3,35.69,139.69,Asia/Tokyo
+595,2023-12-20,2023,December ,12,Tokyo,Japan,11.5,7.6,9.5,35.69,139.69,Asia/Tokyo
+596,2023-12-31,2023,December ,12,Tokyo,Japan,10.6,8.0,9.0,35.69,139.69,Asia/Tokyo
+597,2023-12-13,2023,December ,12,Tokyo,Japan,13.4,10.0,11.7,35.69,139.69,Asia/Tokyo
+598,2023-12-01,2023,December ,12,Tokyo,Japan,10.7,8.3,9.5,35.69,139.69,Asia/Tokyo
+599,2023-12-12,2023,December ,12,Tokyo,Japan,14.2,11.3,12.5,35.69,139.69,Asia/Tokyo
+600,2023-12-21,2023,December ,12,Tokyo,Japan,9.8,7.0,8.3,35.69,139.69,Asia/Tokyo
+601,2023-12-14,2023,December ,12,Tokyo,Japan,13.8,9.9,12.0,35.69,139.69,Asia/Tokyo
+602,2023-12-30,2023,December ,12,Tokyo,Japan,12.1,7.7,10.1,35.69,139.69,Asia/Tokyo
+603,2023-12-17,2023,December ,12,Tokyo,Japan,15.4,8.4,11.8,35.69,139.69,Asia/Tokyo
+604,2023-12-15,2023,December ,12,Tokyo,Japan,16.1,10.6,12.5,35.69,139.69,Asia/Tokyo
+605,2023-12-28,2023,December ,12,Tokyo,Japan,7.8,6.7,7.3,35.69,139.69,Asia/Tokyo
+606,2023-12-02,2023,December ,12,Tokyo,Japan,11.5,7.8,9.8,35.69,139.69,Asia/Tokyo
+607,2023-12-18,2023,December ,12,Tokyo,Japan,9.2,6.3,7.8,35.69,139.69,Asia/Tokyo
+608,2023-12-09,2023,December ,12,Tokyo,Japan,16.5,11.4,14.0,35.69,139.69,Asia/Tokyo
+609,2023-12-10,2023,December ,12,Tokyo,Japan,17.6,12.1,14.8,35.69,139.69,Asia/Tokyo
+610,2023-12-06,2023,December ,12,Tokyo,Japan,14.8,10.3,12.7,35.69,139.69,Asia/Tokyo
+611,2023-12-04,2023,December ,12,Tokyo,Japan,12.4,8.5,10.8,35.69,139.69,Asia/Tokyo
+612,2023-12-07,2023,December ,12,Tokyo,Japan,18.0,11.5,14.1,35.69,139.69,Asia/Tokyo
+613,2023-12-16,2023,December ,12,Tokyo,Japan,17.7,12.5,15.6,35.69,139.69,Asia/Tokyo
+614,2023-12-23,2023,December ,12,Tokyo,Japan,7.5,3.7,5.9,35.69,139.69,Asia/Tokyo
+615,2023-12-22,2023,December ,12,Tokyo,Japan,8.0,4.7,6.5,35.69,139.69,Asia/Tokyo
+616,2023-12-29,2023,December ,12,Tokyo,Japan,13.4,6.6,9.8,35.69,139.69,Asia/Tokyo
+617,2023-12-26,2023,December ,12,Tokyo,Japan,11.4,6.1,8.6,35.69,139.69,Asia/Tokyo
+618,2023-12-11,2023,December ,12,Tokyo,Japan,14.3,13.0,13.6,35.69,139.69,Asia/Tokyo
+619,2023-12-05,2023,December ,12,Tokyo,Japan,11.6,9.4,10.7,35.69,139.69,Asia/Tokyo
+620,2023-12-27,2023,December ,12,Tokyo,Japan,11.5,7.6,9.2,35.69,139.69,Asia/Tokyo
+621,2023-12-19,2023,December ,12,Tokyo,Japan,7.4,6.0,6.8,35.69,139.69,Asia/Tokyo
+622,2023-12-24,2023,December ,12,Tokyo,Japan,8.9,5.0,6.9,35.69,139.69,Asia/Tokyo
+623,2024-01-14,2024,January  ,1,Tokyo,Japan,11.0,2.4,6.5,35.69,139.69,Asia/Tokyo
+624,2024-01-16,2024,January  ,1,Tokyo,Japan,7.2,3.5,5.3,35.69,139.69,Asia/Tokyo
+625,2024-01-17,2024,January  ,1,Tokyo,Japan,9.3,3.0,6.4,35.69,139.69,Asia/Tokyo
+626,2024-01-10,2024,January  ,1,Tokyo,Japan,11.1,6.1,8.3,35.69,139.69,Asia/Tokyo
+627,2024-01-22,2024,January  ,1,Tokyo,Japan,7.2,6.0,6.7,35.69,139.69,Asia/Tokyo
+628,2024-01-09,2024,January  ,1,Tokyo,Japan,10.1,4.0,6.9,35.69,139.69,Asia/Tokyo
+629,2024-01-02,2024,January  ,1,Tokyo,Japan,8.5,6.6,7.6,35.69,139.69,Asia/Tokyo
+630,2024-01-21,2024,January  ,1,Tokyo,Japan,10.7,6.7,8.4,35.69,139.69,Asia/Tokyo
+631,2024-01-11,2024,January  ,1,Tokyo,Japan,7.9,4.7,6.6,35.69,139.69,Asia/Tokyo
+632,2024-01-07,2024,January  ,1,Tokyo,Japan,11.2,8.5,9.8,35.69,139.69,Asia/Tokyo
+633,2024-01-06,2024,January  ,1,Tokyo,Japan,12.8,8.0,10.3,35.69,139.69,Asia/Tokyo
+634,2024-01-23,2024,January  ,1,Tokyo,Japan,8.8,4.0,7.6,35.69,139.69,Asia/Tokyo
+635,2024-01-24,2024,January  ,1,Tokyo,Japan,6.8,3.2,4.8,35.69,139.69,Asia/Tokyo
+636,2024-01-04,2024,January  ,1,Tokyo,Japan,13.1,8.3,10.2,35.69,139.69,Asia/Tokyo
+637,2024-01-08,2024,January  ,1,Tokyo,Japan,8.5,4.7,6.8,35.69,139.69,Asia/Tokyo
+638,2024-01-30,2024,January  ,1,Tokyo,Japan,10.9,6.5,8.8,35.69,139.69,Asia/Tokyo
+639,2024-01-03,2024,January  ,1,Tokyo,Japan,11.2,7.2,9.4,35.69,139.69,Asia/Tokyo
+640,2024-01-28,2024,January  ,1,Tokyo,Japan,9.4,5.4,7.4,35.69,139.69,Asia/Tokyo
+641,2024-01-18,2024,January  ,1,Tokyo,Japan,11.5,6.0,8.8,35.69,139.69,Asia/Tokyo
+642,2024-01-12,2024,January  ,1,Tokyo,Japan,10.4,4.8,7.6,35.69,139.69,Asia/Tokyo
+643,2024-01-27,2024,January  ,1,Tokyo,Japan,9.7,3.8,6.8,35.69,139.69,Asia/Tokyo
+644,2024-01-15,2024,January  ,1,Tokyo,Japan,9.7,4.7,7.5,35.69,139.69,Asia/Tokyo
+645,2024-01-13,2024,January  ,1,Tokyo,Japan,10.5,1.9,6.6,35.69,139.69,Asia/Tokyo
+646,2024-01-25,2024,January  ,1,Tokyo,Japan,7.8,2.7,4.9,35.69,139.69,Asia/Tokyo
+647,2024-01-20,2024,January  ,1,Tokyo,Japan,9.8,7.0,8.6,35.69,139.69,Asia/Tokyo
+648,2024-01-26,2024,January  ,1,Tokyo,Japan,9.4,2.7,5.7,35.69,139.69,Asia/Tokyo
+649,2024-01-01,2024,January  ,1,Tokyo,Japan,11.5,7.9,10.0,35.69,139.69,Asia/Tokyo
+650,2024-01-29,2024,January  ,1,Tokyo,Japan,9.7,4.6,7.5,35.69,139.69,Asia/Tokyo
+651,2024-01-19,2024,January  ,1,Tokyo,Japan,12.1,9.3,10.2,35.69,139.69,Asia/Tokyo
+652,2024-01-31,2024,January  ,1,Tokyo,Japan,13.6,6.7,10.1,35.69,139.69,Asia/Tokyo
+653,2024-01-05,2024,January  ,1,Tokyo,Japan,13.7,7.2,9.6,35.69,139.69,Asia/Tokyo
+654,2024-02-26,2024,February ,2,Tokyo,Japan,11.9,5.9,8.3,35.69,139.69,Asia/Tokyo
+655,2024-02-01,2024,February ,2,Tokyo,Japan,14.4,6.3,10.4,35.69,139.69,Asia/Tokyo
+656,2024-02-17,2024,February ,2,Tokyo,Japan,12.0,6.7,9.4,35.69,139.69,Asia/Tokyo
+657,2024-02-06,2024,February ,2,Tokyo,Japan,3.4,1.3,2.3,35.69,139.69,Asia/Tokyo
+658,2024-02-16,2024,February ,2,Tokyo,Japan,15.2,7.5,10.3,35.69,139.69,Asia/Tokyo
+659,2024-02-02,2024,February ,2,Tokyo,Japan,5.8,3.2,4.6,35.69,139.69,Asia/Tokyo
+660,2024-02-25,2024,February ,2,Tokyo,Japan,6.7,4.4,5.5,35.69,139.69,Asia/Tokyo
+661,2024-02-22,2024,February ,2,Tokyo,Japan,8.0,4.2,6.2,35.69,139.69,Asia/Tokyo
+662,2024-02-12,2024,February ,2,Tokyo,Japan,11.4,4.3,7.6,35.69,139.69,Asia/Tokyo
+663,2024-02-23,2024,February ,2,Tokyo,Japan,5.2,3.2,4.2,35.69,139.69,Asia/Tokyo
+664,2024-02-13,2024,February ,2,Tokyo,Japan,14.4,6.1,10.2,35.69,139.69,Asia/Tokyo
+665,2024-02-18,2024,February ,2,Tokyo,Japan,13.9,10.0,11.7,35.69,139.69,Asia/Tokyo
+666,2024-02-19,2024,February ,2,Tokyo,Japan,15.6,12.5,14.2,35.69,139.69,Asia/Tokyo
+667,2024-02-03,2024,February ,2,Tokyo,Japan,9.4,4.0,6.9,35.69,139.69,Asia/Tokyo
+668,2024-02-05,2024,February ,2,Tokyo,Japan,6.9,1.1,4.1,35.69,139.69,Asia/Tokyo
+669,2024-02-29,2024,February ,2,Tokyo,Japan,11.4,6.3,8.6,35.69,139.69,Asia/Tokyo
+670,2024-02-21,2024,February ,2,Tokyo,Japan,11.8,8.0,9.4,35.69,139.69,Asia/Tokyo
+671,2024-02-24,2024,February ,2,Tokyo,Japan,7.6,2.9,5.5,35.69,139.69,Asia/Tokyo
+672,2024-02-07,2024,February ,2,Tokyo,Japan,7.7,1.8,4.6,35.69,139.69,Asia/Tokyo
+673,2024-02-14,2024,February ,2,Tokyo,Japan,14.8,8.4,11.9,35.69,139.69,Asia/Tokyo
+674,2024-02-09,2024,February ,2,Tokyo,Japan,9.7,5.4,7.6,35.69,139.69,Asia/Tokyo
+675,2024-02-11,2024,February ,2,Tokyo,Japan,8.9,4.4,6.9,35.69,139.69,Asia/Tokyo
+676,2024-02-10,2024,February ,2,Tokyo,Japan,10.0,6.0,8.1,35.69,139.69,Asia/Tokyo
+677,2024-02-28,2024,February ,2,Tokyo,Japan,11.5,4.7,7.9,35.69,139.69,Asia/Tokyo
+678,2024-02-08,2024,February ,2,Tokyo,Japan,10.1,4.6,7.4,35.69,139.69,Asia/Tokyo
+679,2024-02-27,2024,February ,2,Tokyo,Japan,11.0,5.6,8.0,35.69,139.69,Asia/Tokyo
+680,2024-02-04,2024,February ,2,Tokyo,Japan,9.3,6.7,7.8,35.69,139.69,Asia/Tokyo
+681,2024-02-15,2024,February ,2,Tokyo,Japan,18.0,10.3,14.2,35.69,139.69,Asia/Tokyo
+682,2024-02-20,2024,February ,2,Tokyo,Japan,20.0,11.9,16.5,35.69,139.69,Asia/Tokyo
+683,2024-03-10,2024,March    ,3,Tokyo,Japan,10.4,4.7,7.2,35.69,139.69,Asia/Tokyo
+684,2024-03-29,2024,March    ,3,Tokyo,Japan,19.1,12.8,15.7,35.69,139.69,Asia/Tokyo
+685,2024-03-07,2024,March    ,3,Tokyo,Japan,8.8,4.0,6.4,35.69,139.69,Asia/Tokyo
+686,2024-03-26,2024,March    ,3,Tokyo,Japan,11.2,6.2,9.1,35.69,139.69,Asia/Tokyo
+687,2024-03-03,2024,March    ,3,Tokyo,Japan,11.8,4.9,8.2,35.69,139.69,Asia/Tokyo
+688,2024-03-06,2024,March    ,3,Tokyo,Japan,7.4,2.6,5.2,35.69,139.69,Asia/Tokyo
+689,2024-03-30,2024,March    ,3,Tokyo,Japan,21.3,13.3,17.4,35.69,139.69,Asia/Tokyo
+690,2024-03-02,2024,March    ,3,Tokyo,Japan,9.0,3.7,5.9,35.69,139.69,Asia/Tokyo
+691,2024-03-27,2024,March    ,3,Tokyo,Japan,13.4,4.9,9.3,35.69,139.69,Asia/Tokyo
+692,2024-03-18,2024,March    ,3,Tokyo,Japan,15.2,6.8,10.0,35.69,139.69,Asia/Tokyo
+693,2024-03-08,2024,March    ,3,Tokyo,Japan,6.8,2.4,4.4,35.69,139.69,Asia/Tokyo
+694,2024-03-05,2024,March    ,3,Tokyo,Japan,9.2,5.5,7.6,35.69,139.69,Asia/Tokyo
+695,2024-03-21,2024,March    ,3,Tokyo,Japan,8.8,4.2,6.4,35.69,139.69,Asia/Tokyo
+696,2024-03-09,2024,March    ,3,Tokyo,Japan,10.4,4.5,6.8,35.69,139.69,Asia/Tokyo
+697,2024-03-01,2024,March    ,3,Tokyo,Japan,13.5,5.2,9.5,35.69,139.69,Asia/Tokyo
+698,2024-03-11,2024,March    ,3,Tokyo,Japan,11.4,4.7,8.4,35.69,139.69,Asia/Tokyo
+699,2024-03-17,2024,March    ,3,Tokyo,Japan,20.4,12.1,16.2,35.69,139.69,Asia/Tokyo
+700,2024-03-20,2024,March    ,3,Tokyo,Japan,14.0,7.0,10.2,35.69,139.69,Asia/Tokyo
+701,2024-03-16,2024,March    ,3,Tokyo,Japan,17.6,10.9,14.2,35.69,139.69,Asia/Tokyo
+702,2024-03-04,2024,March    ,3,Tokyo,Japan,13.9,6.9,10.0,35.69,139.69,Asia/Tokyo
+703,2024-03-23,2024,March    ,3,Tokyo,Japan,12.0,7.7,10.0,35.69,139.69,Asia/Tokyo
+704,2024-03-28,2024,March    ,3,Tokyo,Japan,13.9,10.1,12.2,35.69,139.69,Asia/Tokyo
+705,2024-03-13,2024,March    ,3,Tokyo,Japan,12.6,7.1,9.7,35.69,139.69,Asia/Tokyo
+706,2024-03-31,2024,March    ,3,Tokyo,Japan,24.4,15.2,18.7,35.69,139.69,Asia/Tokyo
+707,2024-03-12,2024,March    ,3,Tokyo,Japan,11.9,6.6,9.7,35.69,139.69,Asia/Tokyo
+708,2024-03-25,2024,March    ,3,Tokyo,Japan,12.8,10.8,11.7,35.69,139.69,Asia/Tokyo
+709,2024-03-24,2024,March    ,3,Tokyo,Japan,14.1,8.5,11.5,35.69,139.69,Asia/Tokyo
+710,2024-03-22,2024,March    ,3,Tokyo,Japan,10.7,4.5,7.5,35.69,139.69,Asia/Tokyo
+711,2024-03-14,2024,March    ,3,Tokyo,Japan,13.0,7.1,10.1,35.69,139.69,Asia/Tokyo
+712,2024-03-15,2024,March    ,3,Tokyo,Japan,15.6,8.6,12.5,35.69,139.69,Asia/Tokyo
+713,2024-03-19,2024,March    ,3,Tokyo,Japan,11.3,5.6,8.5,35.69,139.69,Asia/Tokyo
+714,2024-04-04,2024,April    ,4,Tokyo,Japan,15.9,12.7,14.5,35.69,139.69,Asia/Tokyo
+715,2024-04-08,2024,April    ,4,Tokyo,Japan,19.6,15.4,17.3,35.69,139.69,Asia/Tokyo
+716,2024-04-09,2024,April    ,4,Tokyo,Japan,18.2,10.9,15.0,35.69,139.69,Asia/Tokyo
+717,2024-04-13,2024,April    ,4,Tokyo,Japan,20.6,13.2,16.6,35.69,139.69,Asia/Tokyo
+718,2024-04-03,2024,April    ,4,Tokyo,Japan,20.7,14.3,16.2,35.69,139.69,Asia/Tokyo
+719,2024-04-01,2024,April    ,4,Tokyo,Japan,15.3,11.7,13.1,35.69,139.69,Asia/Tokyo
+720,2024-04-16,2024,April    ,4,Tokyo,Japan,21.2,16.5,18.6,35.69,139.69,Asia/Tokyo
+721,2024-04-14,2024,April    ,4,Tokyo,Japan,21.8,14.2,17.4,35.69,139.69,Asia/Tokyo
+722,2024-04-02,2024,April    ,4,Tokyo,Japan,16.9,11.6,14.0,35.69,139.69,Asia/Tokyo
+723,2024-04-07,2024,April    ,4,Tokyo,Japan,14.8,11.7,13.2,35.69,139.69,Asia/Tokyo
+724,2024-04-10,2024,April    ,4,Tokyo,Japan,15.6,8.0,11.6,35.69,139.69,Asia/Tokyo
+725,2024-04-15,2024,April    ,4,Tokyo,Japan,22.2,16.1,18.8,35.69,139.69,Asia/Tokyo
+726,2024-04-11,2024,April    ,4,Tokyo,Japan,17.0,11.1,13.9,35.69,139.69,Asia/Tokyo
+727,2024-04-12,2024,April    ,4,Tokyo,Japan,15.1,13.8,14.4,35.69,139.69,Asia/Tokyo
+728,2024-04-05,2024,April    ,4,Tokyo,Japan,14.3,9.8,11.0,35.69,139.69,Asia/Tokyo
+729,2024-04-06,2024,April    ,4,Tokyo,Japan,13.7,9.7,11.8,35.69,139.69,Asia/Tokyo
+730,2023-04-20,2023,April    ,4,Wellington,New Zealand,17.8,14.9,16.9,-41.3,174.78,Pacific/Auckland
+731,2023-04-22,2023,April    ,4,Wellington,New Zealand,16.0,14.4,15.3,-41.3,174.78,Pacific/Auckland
+732,2023-04-21,2023,April    ,4,Wellington,New Zealand,18.3,14.9,16.8,-41.3,174.78,Pacific/Auckland
+733,2023-04-19,2023,April    ,4,Wellington,New Zealand,16.7,14.5,15.5,-41.3,174.78,Pacific/Auckland
+734,2023-04-27,2023,April    ,4,Wellington,New Zealand,15.2,10.2,12.7,-41.3,174.78,Pacific/Auckland
+735,2023-04-28,2023,April    ,4,Wellington,New Zealand,17.2,11.3,13.4,-41.3,174.78,Pacific/Auckland
+736,2023-04-18,2023,April    ,4,Wellington,New Zealand,16.7,14.4,15.7,-41.3,174.78,Pacific/Auckland
+737,2023-04-24,2023,April    ,4,Wellington,New Zealand,15.6,10.7,12.6,-41.3,174.78,Pacific/Auckland
+738,2023-04-25,2023,April    ,4,Wellington,New Zealand,18.9,10.3,14.6,-41.3,174.78,Pacific/Auckland
+739,2023-04-29,2023,April    ,4,Wellington,New Zealand,16.2,11.6,14.0,-41.3,174.78,Pacific/Auckland
+740,2023-04-26,2023,April    ,4,Wellington,New Zealand,16.5,11.6,13.3,-41.3,174.78,Pacific/Auckland
+741,2023-04-23,2023,April    ,4,Wellington,New Zealand,18.0,12.8,15.3,-41.3,174.78,Pacific/Auckland
+742,2023-04-30,2023,April    ,4,Wellington,New Zealand,18.7,13.3,15.4,-41.3,174.78,Pacific/Auckland
+743,2023-05-26,2023,May      ,5,Wellington,New Zealand,16.9,13.2,14.5,-41.3,174.78,Pacific/Auckland
+744,2023-05-25,2023,May      ,5,Wellington,New Zealand,14.7,9.3,12.2,-41.3,174.78,Pacific/Auckland
+745,2023-05-03,2023,May      ,5,Wellington,New Zealand,18.6,16.2,17.1,-41.3,174.78,Pacific/Auckland
+746,2023-05-04,2023,May      ,5,Wellington,New Zealand,16.5,15.6,16.1,-41.3,174.78,Pacific/Auckland
+747,2023-05-28,2023,May      ,5,Wellington,New Zealand,16.9,12.9,14.3,-41.3,174.78,Pacific/Auckland
+748,2023-05-09,2023,May      ,5,Wellington,New Zealand,17.9,15.9,16.4,-41.3,174.78,Pacific/Auckland
+749,2023-05-13,2023,May      ,5,Wellington,New Zealand,14.8,11.5,12.7,-41.3,174.78,Pacific/Auckland
+750,2023-05-05,2023,May      ,5,Wellington,New Zealand,18.5,16.1,16.9,-41.3,174.78,Pacific/Auckland
+751,2023-05-12,2023,May      ,5,Wellington,New Zealand,13.1,9.2,11.2,-41.3,174.78,Pacific/Auckland
+752,2023-05-24,2023,May      ,5,Wellington,New Zealand,13.7,10.9,12.5,-41.3,174.78,Pacific/Auckland
+753,2023-05-17,2023,May      ,5,Wellington,New Zealand,15.9,11.0,13.2,-41.3,174.78,Pacific/Auckland
+754,2023-05-31,2023,May      ,5,Wellington,New Zealand,16.3,12.9,14.4,-41.3,174.78,Pacific/Auckland
+755,2023-05-29,2023,May      ,5,Wellington,New Zealand,17.2,13.4,15.3,-41.3,174.78,Pacific/Auckland
+756,2023-05-23,2023,May      ,5,Wellington,New Zealand,16.3,12.0,13.8,-41.3,174.78,Pacific/Auckland
+757,2023-05-16,2023,May      ,5,Wellington,New Zealand,14.5,10.2,12.0,-41.3,174.78,Pacific/Auckland
+758,2023-05-06,2023,May      ,5,Wellington,New Zealand,17.9,16.0,16.9,-41.3,174.78,Pacific/Auckland
+759,2023-05-10,2023,May      ,5,Wellington,New Zealand,16.3,11.1,14.3,-41.3,174.78,Pacific/Auckland
+760,2023-05-11,2023,May      ,5,Wellington,New Zealand,11.2,9.0,10.3,-41.3,174.78,Pacific/Auckland
+761,2023-05-20,2023,May      ,5,Wellington,New Zealand,13.1,12.1,12.6,-41.3,174.78,Pacific/Auckland
+762,2023-05-15,2023,May      ,5,Wellington,New Zealand,13.7,10.7,12.0,-41.3,174.78,Pacific/Auckland
+763,2023-05-18,2023,May      ,5,Wellington,New Zealand,14.5,13.2,13.9,-41.3,174.78,Pacific/Auckland
+764,2023-05-22,2023,May      ,5,Wellington,New Zealand,14.8,12.7,13.5,-41.3,174.78,Pacific/Auckland
+765,2023-05-30,2023,May      ,5,Wellington,New Zealand,15.8,14.2,14.9,-41.3,174.78,Pacific/Auckland
+766,2023-05-21,2023,May      ,5,Wellington,New Zealand,15.9,12.2,13.1,-41.3,174.78,Pacific/Auckland
+767,2023-05-01,2023,May      ,5,Wellington,New Zealand,18.4,13.8,15.9,-41.3,174.78,Pacific/Auckland
+768,2023-05-02,2023,May      ,5,Wellington,New Zealand,20.6,15.8,17.9,-41.3,174.78,Pacific/Auckland
+769,2023-05-08,2023,May      ,5,Wellington,New Zealand,18.5,15.5,16.8,-41.3,174.78,Pacific/Auckland
+770,2023-05-07,2023,May      ,5,Wellington,New Zealand,17.3,15.5,16.3,-41.3,174.78,Pacific/Auckland
+771,2023-05-19,2023,May      ,5,Wellington,New Zealand,15.1,10.5,12.9,-41.3,174.78,Pacific/Auckland
+772,2023-05-14,2023,May      ,5,Wellington,New Zealand,15.8,11.6,13.4,-41.3,174.78,Pacific/Auckland
+773,2023-05-27,2023,May      ,5,Wellington,New Zealand,15.5,14.0,14.7,-41.3,174.78,Pacific/Auckland
+774,2023-06-07,2023,June     ,6,Wellington,New Zealand,12.7,10.4,11.4,-41.3,174.78,Pacific/Auckland
+775,2023-06-23,2023,June     ,6,Wellington,New Zealand,14.7,13.5,14.0,-41.3,174.78,Pacific/Auckland
+776,2023-06-15,2023,June     ,6,Wellington,New Zealand,13.3,8.7,11.0,-41.3,174.78,Pacific/Auckland
+777,2023-06-30,2023,June     ,6,Wellington,New Zealand,11.7,9.3,10.3,-41.3,174.78,Pacific/Auckland
+778,2023-06-08,2023,June     ,6,Wellington,New Zealand,14.8,9.5,11.8,-41.3,174.78,Pacific/Auckland
+779,2023-06-29,2023,June     ,6,Wellington,New Zealand,12.6,9.6,11.1,-41.3,174.78,Pacific/Auckland
+780,2023-06-16,2023,June     ,6,Wellington,New Zealand,13.5,8.4,10.5,-41.3,174.78,Pacific/Auckland
+781,2023-06-19,2023,June     ,6,Wellington,New Zealand,15.3,11.1,12.5,-41.3,174.78,Pacific/Auckland
+782,2023-06-14,2023,June     ,6,Wellington,New Zealand,11.9,8.2,10.1,-41.3,174.78,Pacific/Auckland
+783,2023-06-06,2023,June     ,6,Wellington,New Zealand,12.3,10.5,11.6,-41.3,174.78,Pacific/Auckland
+784,2023-06-24,2023,June     ,6,Wellington,New Zealand,14.9,13.2,14.0,-41.3,174.78,Pacific/Auckland
+785,2023-06-28,2023,June     ,6,Wellington,New Zealand,11.8,9.9,10.7,-41.3,174.78,Pacific/Auckland
+786,2023-06-02,2023,June     ,6,Wellington,New Zealand,16.3,12.2,15.3,-41.3,174.78,Pacific/Auckland
+787,2023-06-22,2023,June     ,6,Wellington,New Zealand,14.3,12.3,13.6,-41.3,174.78,Pacific/Auckland
+788,2023-06-10,2023,June     ,6,Wellington,New Zealand,13.8,9.5,11.3,-41.3,174.78,Pacific/Auckland
+789,2023-06-25,2023,June     ,6,Wellington,New Zealand,14.5,11.3,12.5,-41.3,174.78,Pacific/Auckland
+790,2023-06-20,2023,June     ,6,Wellington,New Zealand,14.1,10.0,11.9,-41.3,174.78,Pacific/Auckland
+791,2023-06-27,2023,June     ,6,Wellington,New Zealand,12.7,9.8,11.8,-41.3,174.78,Pacific/Auckland
+792,2023-06-17,2023,June     ,6,Wellington,New Zealand,14.2,9.3,12.0,-41.3,174.78,Pacific/Auckland
+793,2023-06-09,2023,June     ,6,Wellington,New Zealand,14.0,11.3,12.6,-41.3,174.78,Pacific/Auckland
+794,2023-06-26,2023,June     ,6,Wellington,New Zealand,14.5,10.8,12.2,-41.3,174.78,Pacific/Auckland
+795,2023-06-11,2023,June     ,6,Wellington,New Zealand,12.6,8.8,10.7,-41.3,174.78,Pacific/Auckland
+796,2023-06-13,2023,June     ,6,Wellington,New Zealand,12.7,9.2,10.8,-41.3,174.78,Pacific/Auckland
+797,2023-06-03,2023,June     ,6,Wellington,New Zealand,14.9,10.3,12.1,-41.3,174.78,Pacific/Auckland
+798,2023-06-21,2023,June     ,6,Wellington,New Zealand,14.7,10.9,12.4,-41.3,174.78,Pacific/Auckland
+799,2023-06-05,2023,June     ,6,Wellington,New Zealand,12.0,10.6,11.2,-41.3,174.78,Pacific/Auckland
+800,2023-06-12,2023,June     ,6,Wellington,New Zealand,12.8,9.5,11.3,-41.3,174.78,Pacific/Auckland
+801,2023-06-04,2023,June     ,6,Wellington,New Zealand,14.9,11.2,13.1,-41.3,174.78,Pacific/Auckland
+802,2023-06-01,2023,June     ,6,Wellington,New Zealand,16.5,13.6,15.0,-41.3,174.78,Pacific/Auckland
+803,2023-06-18,2023,June     ,6,Wellington,New Zealand,13.8,12.4,12.9,-41.3,174.78,Pacific/Auckland
+804,2023-07-07,2023,July     ,7,Wellington,New Zealand,13.1,6.7,9.4,-41.3,174.78,Pacific/Auckland
+805,2023-07-06,2023,July     ,7,Wellington,New Zealand,11.2,8.6,9.9,-41.3,174.78,Pacific/Auckland
+806,2023-07-22,2023,July     ,7,Wellington,New Zealand,10.6,8.3,9.7,-41.3,174.78,Pacific/Auckland
+807,2023-07-05,2023,July     ,7,Wellington,New Zealand,13.0,9.7,11.4,-41.3,174.78,Pacific/Auckland
+808,2023-07-13,2023,July     ,7,Wellington,New Zealand,13.0,8.5,10.5,-41.3,174.78,Pacific/Auckland
+809,2023-07-29,2023,July     ,7,Wellington,New Zealand,11.1,6.6,8.8,-41.3,174.78,Pacific/Auckland
+810,2023-07-23,2023,July     ,7,Wellington,New Zealand,11.9,8.7,10.7,-41.3,174.78,Pacific/Auckland
+811,2023-07-16,2023,July     ,7,Wellington,New Zealand,14.4,9.6,12.9,-41.3,174.78,Pacific/Auckland
+812,2023-07-09,2023,July     ,7,Wellington,New Zealand,12.3,10.9,11.5,-41.3,174.78,Pacific/Auckland
+813,2023-07-25,2023,July     ,7,Wellington,New Zealand,14.0,9.1,10.9,-41.3,174.78,Pacific/Auckland
+814,2023-07-18,2023,July     ,7,Wellington,New Zealand,15.5,11.1,13.1,-41.3,174.78,Pacific/Auckland
+815,2023-07-12,2023,July     ,7,Wellington,New Zealand,13.9,7.3,10.5,-41.3,174.78,Pacific/Auckland
+816,2023-07-08,2023,July     ,7,Wellington,New Zealand,12.2,9.0,10.4,-41.3,174.78,Pacific/Auckland
+817,2023-07-21,2023,July     ,7,Wellington,New Zealand,11.7,9.3,10.3,-41.3,174.78,Pacific/Auckland
+818,2023-07-04,2023,July     ,7,Wellington,New Zealand,15.6,9.0,11.4,-41.3,174.78,Pacific/Auckland
+819,2023-07-19,2023,July     ,7,Wellington,New Zealand,14.7,11.4,12.8,-41.3,174.78,Pacific/Auckland
+820,2023-07-03,2023,July     ,7,Wellington,New Zealand,12.9,6.8,10.0,-41.3,174.78,Pacific/Auckland
+821,2023-07-01,2023,July     ,7,Wellington,New Zealand,13.1,7.9,10.8,-41.3,174.78,Pacific/Auckland
+822,2023-07-31,2023,July     ,7,Wellington,New Zealand,14.7,9.4,12.1,-41.3,174.78,Pacific/Auckland
+823,2023-07-14,2023,July     ,7,Wellington,New Zealand,15.6,9.6,13.0,-41.3,174.78,Pacific/Auckland
+824,2023-07-27,2023,July     ,7,Wellington,New Zealand,12.3,6.9,9.6,-41.3,174.78,Pacific/Auckland
+825,2023-07-17,2023,July     ,7,Wellington,New Zealand,13.9,8.8,11.3,-41.3,174.78,Pacific/Auckland
+826,2023-07-20,2023,July     ,7,Wellington,New Zealand,12.6,10.5,11.9,-41.3,174.78,Pacific/Auckland
+827,2023-07-24,2023,July     ,7,Wellington,New Zealand,11.5,10.0,10.8,-41.3,174.78,Pacific/Auckland
+828,2023-07-26,2023,July     ,7,Wellington,New Zealand,10.2,6.9,8.5,-41.3,174.78,Pacific/Auckland
+829,2023-07-28,2023,July     ,7,Wellington,New Zealand,11.0,7.2,9.1,-41.3,174.78,Pacific/Auckland
+830,2023-07-30,2023,July     ,7,Wellington,New Zealand,13.4,6.8,9.7,-41.3,174.78,Pacific/Auckland
+831,2023-07-15,2023,July     ,7,Wellington,New Zealand,14.6,9.8,12.2,-41.3,174.78,Pacific/Auckland
+832,2023-07-02,2023,July     ,7,Wellington,New Zealand,11.1,6.9,9.1,-41.3,174.78,Pacific/Auckland
+833,2023-07-10,2023,July     ,7,Wellington,New Zealand,12.3,10.4,11.1,-41.3,174.78,Pacific/Auckland
+834,2023-07-11,2023,July     ,7,Wellington,New Zealand,11.9,9.0,10.7,-41.3,174.78,Pacific/Auckland
+835,2023-08-19,2023,August   ,8,Wellington,New Zealand,11.5,9.3,10.4,-41.3,174.78,Pacific/Auckland
+836,2023-08-16,2023,August   ,8,Wellington,New Zealand,10.6,8.9,9.7,-41.3,174.78,Pacific/Auckland
+837,2023-08-30,2023,August   ,8,Wellington,New Zealand,11.6,7.5,9.7,-41.3,174.78,Pacific/Auckland
+838,2023-08-22,2023,August   ,8,Wellington,New Zealand,9.6,6.4,8.5,-41.3,174.78,Pacific/Auckland
+839,2023-08-29,2023,August   ,8,Wellington,New Zealand,10.5,5.3,8.1,-41.3,174.78,Pacific/Auckland
+840,2023-08-31,2023,August   ,8,Wellington,New Zealand,12.3,10.1,11.0,-41.3,174.78,Pacific/Auckland
+841,2023-08-21,2023,August   ,8,Wellington,New Zealand,11.5,8.8,9.9,-41.3,174.78,Pacific/Auckland
+842,2023-08-01,2023,August   ,8,Wellington,New Zealand,14.9,10.1,12.8,-41.3,174.78,Pacific/Auckland
+843,2023-08-24,2023,August   ,8,Wellington,New Zealand,10.4,6.4,8.4,-41.3,174.78,Pacific/Auckland
+844,2023-08-09,2023,August   ,8,Wellington,New Zealand,9.8,5.4,7.5,-41.3,174.78,Pacific/Auckland
+845,2023-08-15,2023,August   ,8,Wellington,New Zealand,10.9,9.3,10.0,-41.3,174.78,Pacific/Auckland
+846,2023-08-07,2023,August   ,8,Wellington,New Zealand,12.3,9.4,10.7,-41.3,174.78,Pacific/Auckland
+847,2023-08-06,2023,August   ,8,Wellington,New Zealand,11.0,5.9,8.9,-41.3,174.78,Pacific/Auckland
+848,2023-08-26,2023,August   ,8,Wellington,New Zealand,11.2,7.3,9.6,-41.3,174.78,Pacific/Auckland
+849,2023-08-13,2023,August   ,8,Wellington,New Zealand,12.2,10.0,11.2,-41.3,174.78,Pacific/Auckland
+850,2023-08-05,2023,August   ,8,Wellington,New Zealand,10.3,6.8,9.1,-41.3,174.78,Pacific/Auckland
+851,2023-08-27,2023,August   ,8,Wellington,New Zealand,11.0,7.6,9.1,-41.3,174.78,Pacific/Auckland
+852,2023-08-04,2023,August   ,8,Wellington,New Zealand,11.4,8.0,9.5,-41.3,174.78,Pacific/Auckland
+853,2023-08-23,2023,August   ,8,Wellington,New Zealand,10.2,5.1,8.0,-41.3,174.78,Pacific/Auckland
+854,2023-08-17,2023,August   ,8,Wellington,New Zealand,10.1,6.9,8.9,-41.3,174.78,Pacific/Auckland
+855,2023-08-18,2023,August   ,8,Wellington,New Zealand,11.4,7.2,9.4,-41.3,174.78,Pacific/Auckland
+856,2023-08-28,2023,August   ,8,Wellington,New Zealand,8.6,5.6,7.6,-41.3,174.78,Pacific/Auckland
+857,2023-08-11,2023,August   ,8,Wellington,New Zealand,8.3,5.0,7.3,-41.3,174.78,Pacific/Auckland
+858,2023-08-12,2023,August   ,8,Wellington,New Zealand,10.5,5.8,8.6,-41.3,174.78,Pacific/Auckland
+859,2023-08-08,2023,August   ,8,Wellington,New Zealand,10.3,6.2,7.6,-41.3,174.78,Pacific/Auckland
+860,2023-08-10,2023,August   ,8,Wellington,New Zealand,7.2,5.3,6.5,-41.3,174.78,Pacific/Auckland
+861,2023-08-14,2023,August   ,8,Wellington,New Zealand,12.1,10.3,11.4,-41.3,174.78,Pacific/Auckland
+862,2023-08-03,2023,August   ,8,Wellington,New Zealand,9.9,5.5,7.7,-41.3,174.78,Pacific/Auckland
+863,2023-08-02,2023,August   ,8,Wellington,New Zealand,12.3,6.1,9.1,-41.3,174.78,Pacific/Auckland
+864,2023-08-20,2023,August   ,8,Wellington,New Zealand,13.1,11.6,12.1,-41.3,174.78,Pacific/Auckland
+865,2023-08-25,2023,August   ,8,Wellington,New Zealand,11.9,7.1,9.0,-41.3,174.78,Pacific/Auckland
+866,2023-09-16,2023,September,9,Wellington,New Zealand,12.6,8.1,10.9,-41.3,174.78,Pacific/Auckland
+867,2023-09-21,2023,September,9,Wellington,New Zealand,14.5,12.7,13.5,-41.3,174.78,Pacific/Auckland
+868,2023-09-28,2023,September,9,Wellington,New Zealand,13.1,8.8,10.8,-41.3,174.78,Pacific/Auckland
+869,2023-09-22,2023,September,9,Wellington,New Zealand,14.5,13.0,13.8,-41.3,174.78,Pacific/Auckland
+870,2023-09-26,2023,September,9,Wellington,New Zealand,10.4,8.6,9.4,-41.3,174.78,Pacific/Auckland
+871,2023-09-11,2023,September,9,Wellington,New Zealand,14.4,11.3,12.3,-41.3,174.78,Pacific/Auckland
+872,2023-09-02,2023,September,9,Wellington,New Zealand,13.1,9.2,11.1,-41.3,174.78,Pacific/Auckland
+873,2023-09-10,2023,September,9,Wellington,New Zealand,13.5,10.2,11.7,-41.3,174.78,Pacific/Auckland
+874,2023-09-13,2023,September,9,Wellington,New Zealand,12.7,9.4,11.0,-41.3,174.78,Pacific/Auckland
+875,2023-09-12,2023,September,9,Wellington,New Zealand,12.5,9.0,11.1,-41.3,174.78,Pacific/Auckland
+876,2023-09-08,2023,September,9,Wellington,New Zealand,14.9,9.1,11.7,-41.3,174.78,Pacific/Auckland
+877,2023-09-29,2023,September,9,Wellington,New Zealand,13.2,7.9,10.9,-41.3,174.78,Pacific/Auckland
+878,2023-09-24,2023,September,9,Wellington,New Zealand,10.0,8.8,9.6,-41.3,174.78,Pacific/Auckland
+879,2023-09-30,2023,September,9,Wellington,New Zealand,12.2,7.2,8.8,-41.3,174.78,Pacific/Auckland
+880,2023-09-09,2023,September,9,Wellington,New Zealand,14.3,9.1,11.5,-41.3,174.78,Pacific/Auckland
+881,2023-09-17,2023,September,9,Wellington,New Zealand,15.0,12.0,13.7,-41.3,174.78,Pacific/Auckland
+882,2023-09-20,2023,September,9,Wellington,New Zealand,14.7,13.1,13.6,-41.3,174.78,Pacific/Auckland
+883,2023-09-04,2023,September,9,Wellington,New Zealand,15.0,8.6,11.4,-41.3,174.78,Pacific/Auckland
+884,2023-09-03,2023,September,9,Wellington,New Zealand,14.0,7.8,10.7,-41.3,174.78,Pacific/Auckland
+885,2023-09-06,2023,September,9,Wellington,New Zealand,14.0,12.1,13.0,-41.3,174.78,Pacific/Auckland
+886,2023-09-01,2023,September,9,Wellington,New Zealand,12.4,10.3,11.1,-41.3,174.78,Pacific/Auckland
+887,2023-09-14,2023,September,9,Wellington,New Zealand,13.7,10.2,11.9,-41.3,174.78,Pacific/Auckland
+888,2023-09-15,2023,September,9,Wellington,New Zealand,12.8,9.0,10.4,-41.3,174.78,Pacific/Auckland
+889,2023-09-23,2023,September,9,Wellington,New Zealand,14.6,9.9,11.5,-41.3,174.78,Pacific/Auckland
+890,2023-09-07,2023,September,9,Wellington,New Zealand,14.0,10.0,12.4,-41.3,174.78,Pacific/Auckland
+891,2023-09-05,2023,September,9,Wellington,New Zealand,14.0,9.1,11.3,-41.3,174.78,Pacific/Auckland
+892,2023-09-25,2023,September,9,Wellington,New Zealand,10.5,9.0,9.5,-41.3,174.78,Pacific/Auckland
+893,2023-09-18,2023,September,9,Wellington,New Zealand,14.5,12.0,13.2,-41.3,174.78,Pacific/Auckland
+894,2023-09-27,2023,September,9,Wellington,New Zealand,8.8,7.9,8.4,-41.3,174.78,Pacific/Auckland
+895,2023-09-19,2023,September,9,Wellington,New Zealand,14.0,10.5,12.5,-41.3,174.78,Pacific/Auckland
+896,2023-10-30,2023,October  ,10,Wellington,New Zealand,16.5,9.0,12.3,-41.3,174.78,Pacific/Auckland
+897,2023-10-12,2023,October  ,10,Wellington,New Zealand,14.3,9.6,11.9,-41.3,174.78,Pacific/Auckland
+898,2023-10-03,2023,October  ,10,Wellington,New Zealand,10.0,6.1,8.3,-41.3,174.78,Pacific/Auckland
+899,2023-10-08,2023,October  ,10,Wellington,New Zealand,11.1,9.0,9.8,-41.3,174.78,Pacific/Auckland
+900,2023-10-06,2023,October  ,10,Wellington,New Zealand,14.0,10.5,12.2,-41.3,174.78,Pacific/Auckland
+901,2023-10-15,2023,October  ,10,Wellington,New Zealand,14.4,11.9,13.0,-41.3,174.78,Pacific/Auckland
+902,2023-10-16,2023,October  ,10,Wellington,New Zealand,13.5,11.2,12.2,-41.3,174.78,Pacific/Auckland
+903,2023-10-25,2023,October  ,10,Wellington,New Zealand,15.5,12.9,14.0,-41.3,174.78,Pacific/Auckland
+904,2023-10-19,2023,October  ,10,Wellington,New Zealand,14.7,11.5,12.8,-41.3,174.78,Pacific/Auckland
+905,2023-10-29,2023,October  ,10,Wellington,New Zealand,15.4,6.6,10.9,-41.3,174.78,Pacific/Auckland
+906,2023-10-13,2023,October  ,10,Wellington,New Zealand,13.9,9.1,12.2,-41.3,174.78,Pacific/Auckland
+907,2023-10-24,2023,October  ,10,Wellington,New Zealand,14.3,11.6,13.3,-41.3,174.78,Pacific/Auckland
+908,2023-10-27,2023,October  ,10,Wellington,New Zealand,12.5,6.4,9.6,-41.3,174.78,Pacific/Auckland
+909,2023-10-21,2023,October  ,10,Wellington,New Zealand,13.6,10.9,12.3,-41.3,174.78,Pacific/Auckland
+910,2023-10-09,2023,October  ,10,Wellington,New Zealand,12.0,7.7,10.4,-41.3,174.78,Pacific/Auckland
+911,2023-10-22,2023,October  ,10,Wellington,New Zealand,12.4,9.6,11.5,-41.3,174.78,Pacific/Auckland
+912,2023-10-26,2023,October  ,10,Wellington,New Zealand,15.0,12.7,14.1,-41.3,174.78,Pacific/Auckland
+913,2023-10-31,2023,October  ,10,Wellington,New Zealand,17.5,12.6,14.8,-41.3,174.78,Pacific/Auckland
+914,2023-10-01,2023,October  ,10,Wellington,New Zealand,13.8,7.7,11.3,-41.3,174.78,Pacific/Auckland
+915,2023-10-23,2023,October  ,10,Wellington,New Zealand,13.9,7.1,11.2,-41.3,174.78,Pacific/Auckland
+916,2023-10-20,2023,October  ,10,Wellington,New Zealand,14.1,11.0,12.4,-41.3,174.78,Pacific/Auckland
+917,2023-10-17,2023,October  ,10,Wellington,New Zealand,14.6,9.8,12.4,-41.3,174.78,Pacific/Auckland
+918,2023-10-05,2023,October  ,10,Wellington,New Zealand,15.0,9.4,11.8,-41.3,174.78,Pacific/Auckland
+919,2023-10-04,2023,October  ,10,Wellington,New Zealand,12.1,5.6,9.6,-41.3,174.78,Pacific/Auckland
+920,2023-10-10,2023,October  ,10,Wellington,New Zealand,13.6,7.3,9.9,-41.3,174.78,Pacific/Auckland
+921,2023-10-14,2023,October  ,10,Wellington,New Zealand,14.4,12.6,13.2,-41.3,174.78,Pacific/Auckland
+922,2023-10-18,2023,October  ,10,Wellington,New Zealand,14.0,9.9,11.7,-41.3,174.78,Pacific/Auckland
+923,2023-10-11,2023,October  ,10,Wellington,New Zealand,11.8,7.8,9.9,-41.3,174.78,Pacific/Auckland
+924,2023-10-07,2023,October  ,10,Wellington,New Zealand,12.3,9.2,11.1,-41.3,174.78,Pacific/Auckland
+925,2023-10-28,2023,October  ,10,Wellington,New Zealand,11.4,5.8,8.6,-41.3,174.78,Pacific/Auckland
+926,2023-10-02,2023,October  ,10,Wellington,New Zealand,14.7,9.7,13.0,-41.3,174.78,Pacific/Auckland
+927,2023-11-30,2023,November ,11,Wellington,New Zealand,15.0,10.5,12.9,-41.3,174.78,Pacific/Auckland
+928,2023-11-19,2023,November ,11,Wellington,New Zealand,14.7,12.4,13.3,-41.3,174.78,Pacific/Auckland
+929,2023-11-16,2023,November ,11,Wellington,New Zealand,15.6,13.3,14.3,-41.3,174.78,Pacific/Auckland
+930,2023-11-08,2023,November ,11,Wellington,New Zealand,12.9,10.3,11.5,-41.3,174.78,Pacific/Auckland
+931,2023-11-03,2023,November ,11,Wellington,New Zealand,14.5,12.0,12.7,-41.3,174.78,Pacific/Auckland
+932,2023-11-09,2023,November ,11,Wellington,New Zealand,13.0,9.7,11.5,-41.3,174.78,Pacific/Auckland
+933,2023-11-02,2023,November ,11,Wellington,New Zealand,15.8,12.6,13.9,-41.3,174.78,Pacific/Auckland
+934,2023-11-07,2023,November ,11,Wellington,New Zealand,11.7,10.1,10.7,-41.3,174.78,Pacific/Auckland
+935,2023-11-22,2023,November ,11,Wellington,New Zealand,18.5,12.5,15.3,-41.3,174.78,Pacific/Auckland
+936,2023-11-12,2023,November ,11,Wellington,New Zealand,16.1,10.8,13.6,-41.3,174.78,Pacific/Auckland
+937,2023-11-04,2023,November ,11,Wellington,New Zealand,15.4,12.6,13.8,-41.3,174.78,Pacific/Auckland
+938,2023-11-28,2023,November ,11,Wellington,New Zealand,16.0,13.5,14.8,-41.3,174.78,Pacific/Auckland
+939,2023-11-14,2023,November ,11,Wellington,New Zealand,15.6,13.2,14.2,-41.3,174.78,Pacific/Auckland
+940,2023-11-06,2023,November ,11,Wellington,New Zealand,10.6,9.8,10.3,-41.3,174.78,Pacific/Auckland
+941,2023-11-23,2023,November ,11,Wellington,New Zealand,17.1,13.0,15.4,-41.3,174.78,Pacific/Auckland
+942,2023-11-13,2023,November ,11,Wellington,New Zealand,15.6,13.1,14.3,-41.3,174.78,Pacific/Auckland
+943,2023-11-05,2023,November ,11,Wellington,New Zealand,14.4,10.6,12.8,-41.3,174.78,Pacific/Auckland
+944,2023-11-01,2023,November ,11,Wellington,New Zealand,16.3,13.1,14.4,-41.3,174.78,Pacific/Auckland
+945,2023-11-24,2023,November ,11,Wellington,New Zealand,14.6,9.5,10.9,-41.3,174.78,Pacific/Auckland
+946,2023-11-10,2023,November ,11,Wellington,New Zealand,12.1,8.5,10.8,-41.3,174.78,Pacific/Auckland
+947,2023-11-29,2023,November ,11,Wellington,New Zealand,12.3,10.7,11.6,-41.3,174.78,Pacific/Auckland
+948,2023-11-25,2023,November ,11,Wellington,New Zealand,11.8,10.3,11.1,-41.3,174.78,Pacific/Auckland
+949,2023-11-15,2023,November ,11,Wellington,New Zealand,16.5,13.6,14.6,-41.3,174.78,Pacific/Auckland
+950,2023-11-27,2023,November ,11,Wellington,New Zealand,16.0,8.6,12.9,-41.3,174.78,Pacific/Auckland
+951,2023-11-18,2023,November ,11,Wellington,New Zealand,15.3,10.6,12.7,-41.3,174.78,Pacific/Auckland
+952,2023-11-11,2023,November ,11,Wellington,New Zealand,14.2,7.0,11.1,-41.3,174.78,Pacific/Auckland
+953,2023-11-26,2023,November ,11,Wellington,New Zealand,13.4,9.2,11.6,-41.3,174.78,Pacific/Auckland
+954,2023-11-20,2023,November ,11,Wellington,New Zealand,14.8,11.4,13.3,-41.3,174.78,Pacific/Auckland
+955,2023-11-17,2023,November ,11,Wellington,New Zealand,15.2,11.9,13.9,-41.3,174.78,Pacific/Auckland
+956,2023-11-21,2023,November ,11,Wellington,New Zealand,15.5,11.7,13.9,-41.3,174.78,Pacific/Auckland
+957,2023-12-10,2023,December ,12,Wellington,New Zealand,16.5,11.5,13.7,-41.3,174.78,Pacific/Auckland
+958,2023-12-22,2023,December ,12,Wellington,New Zealand,18.3,13.6,15.8,-41.3,174.78,Pacific/Auckland
+959,2023-12-14,2023,December ,12,Wellington,New Zealand,16.8,12.2,14.6,-41.3,174.78,Pacific/Auckland
+960,2023-12-19,2023,December ,12,Wellington,New Zealand,18.1,12.8,15.5,-41.3,174.78,Pacific/Auckland
+961,2023-12-28,2023,December ,12,Wellington,New Zealand,19.6,12.3,16.0,-41.3,174.78,Pacific/Auckland
+962,2023-12-03,2023,December ,12,Wellington,New Zealand,15.2,12.2,14.3,-41.3,174.78,Pacific/Auckland
+963,2023-12-05,2023,December ,12,Wellington,New Zealand,15.4,11.9,13.3,-41.3,174.78,Pacific/Auckland
+964,2023-12-31,2023,December ,12,Wellington,New Zealand,19.2,16.2,17.7,-41.3,174.78,Pacific/Auckland
+965,2023-12-18,2023,December ,12,Wellington,New Zealand,17.3,13.5,15.1,-41.3,174.78,Pacific/Auckland
+966,2023-12-06,2023,December ,12,Wellington,New Zealand,16.9,11.6,14.4,-41.3,174.78,Pacific/Auckland
+967,2023-12-04,2023,December ,12,Wellington,New Zealand,12.5,11.8,12.2,-41.3,174.78,Pacific/Auckland
+968,2023-12-09,2023,December ,12,Wellington,New Zealand,16.7,12.8,14.9,-41.3,174.78,Pacific/Auckland
+969,2023-12-29,2023,December ,12,Wellington,New Zealand,18.3,16.4,17.6,-41.3,174.78,Pacific/Auckland
+970,2023-12-13,2023,December ,12,Wellington,New Zealand,13.9,9.8,12.5,-41.3,174.78,Pacific/Auckland
+971,2023-12-01,2023,December ,12,Wellington,New Zealand,13.8,10.2,12.2,-41.3,174.78,Pacific/Auckland
+972,2023-12-11,2023,December ,12,Wellington,New Zealand,15.7,9.0,13.0,-41.3,174.78,Pacific/Auckland
+973,2023-12-02,2023,December ,12,Wellington,New Zealand,15.8,9.6,13.4,-41.3,174.78,Pacific/Auckland
+974,2023-12-15,2023,December ,12,Wellington,New Zealand,16.5,13.6,15.1,-41.3,174.78,Pacific/Auckland
+975,2023-12-23,2023,December ,12,Wellington,New Zealand,17.2,14.9,15.9,-41.3,174.78,Pacific/Auckland
+976,2023-12-07,2023,December ,12,Wellington,New Zealand,17.7,13.3,15.2,-41.3,174.78,Pacific/Auckland
+977,2023-12-30,2023,December ,12,Wellington,New Zealand,19.1,16.2,17.7,-41.3,174.78,Pacific/Auckland
+978,2023-12-08,2023,December ,12,Wellington,New Zealand,16.4,11.4,14.1,-41.3,174.78,Pacific/Auckland
+979,2023-12-24,2023,December ,12,Wellington,New Zealand,17.8,16.5,17.4,-41.3,174.78,Pacific/Auckland
+980,2023-12-25,2023,December ,12,Wellington,New Zealand,18.5,16.5,17.5,-41.3,174.78,Pacific/Auckland
+981,2023-12-17,2023,December ,12,Wellington,New Zealand,17.1,15.2,16.0,-41.3,174.78,Pacific/Auckland
+982,2023-12-21,2023,December ,12,Wellington,New Zealand,18.3,13.9,16.1,-41.3,174.78,Pacific/Auckland
+983,2023-12-12,2023,December ,12,Wellington,New Zealand,15.4,10.4,13.0,-41.3,174.78,Pacific/Auckland
+984,2023-12-26,2023,December ,12,Wellington,New Zealand,18.5,14.7,16.9,-41.3,174.78,Pacific/Auckland
+985,2023-12-20,2023,December ,12,Wellington,New Zealand,17.5,14.5,15.7,-41.3,174.78,Pacific/Auckland
+986,2023-12-16,2023,December ,12,Wellington,New Zealand,16.1,15.3,15.7,-41.3,174.78,Pacific/Auckland
+987,2023-12-27,2023,December ,12,Wellington,New Zealand,16.3,13.0,14.9,-41.3,174.78,Pacific/Auckland
+988,2024-01-17,2024,January  ,1,Wellington,New Zealand,20.3,13.6,17.6,-41.3,174.78,Pacific/Auckland
+989,2024-01-01,2024,January  ,1,Wellington,New Zealand,16.7,12.5,14.8,-41.3,174.78,Pacific/Auckland
+990,2024-01-03,2024,January  ,1,Wellington,New Zealand,17.6,14.0,15.9,-41.3,174.78,Pacific/Auckland
+991,2024-01-28,2024,January  ,1,Wellington,New Zealand,18.8,15.9,17.0,-41.3,174.78,Pacific/Auckland
+992,2024-01-14,2024,January  ,1,Wellington,New Zealand,19.6,17.1,18.3,-41.3,174.78,Pacific/Auckland
+993,2024-01-21,2024,January  ,1,Wellington,New Zealand,21.5,18.0,19.3,-41.3,174.78,Pacific/Auckland
+994,2024-01-26,2024,January  ,1,Wellington,New Zealand,18.6,12.0,15.7,-41.3,174.78,Pacific/Auckland
+995,2024-01-06,2024,January  ,1,Wellington,New Zealand,14.8,11.9,13.4,-41.3,174.78,Pacific/Auckland
+996,2024-01-08,2024,January  ,1,Wellington,New Zealand,19.7,14.8,17.2,-41.3,174.78,Pacific/Auckland
+997,2024-01-04,2024,January  ,1,Wellington,New Zealand,17.9,15.5,16.6,-41.3,174.78,Pacific/Auckland
+998,2024-01-24,2024,January  ,1,Wellington,New Zealand,16.1,12.4,13.9,-41.3,174.78,Pacific/Auckland
+999,2024-01-16,2024,January  ,1,Wellington,New Zealand,20.0,13.4,16.1,-41.3,174.78,Pacific/Auckland
+1000,2024-01-25,2024,January  ,1,Wellington,New Zealand,19.1,13.3,16.3,-41.3,174.78,Pacific/Auckland
+1001,2024-01-20,2024,January  ,1,Wellington,New Zealand,20.2,18.9,19.4,-41.3,174.78,Pacific/Auckland
+1002,2024-01-27,2024,January  ,1,Wellington,New Zealand,20.3,16.6,18.1,-41.3,174.78,Pacific/Auckland
+1003,2024-01-09,2024,January  ,1,Wellington,New Zealand,19.2,15.3,17.7,-41.3,174.78,Pacific/Auckland
+1004,2024-01-23,2024,January  ,1,Wellington,New Zealand,20.2,13.1,17.3,-41.3,174.78,Pacific/Auckland
+1005,2024-01-07,2024,January  ,1,Wellington,New Zealand,19.4,10.8,15.5,-41.3,174.78,Pacific/Auckland
+1006,2024-01-18,2024,January  ,1,Wellington,New Zealand,21.3,15.8,18.6,-41.3,174.78,Pacific/Auckland
+1007,2024-01-15,2024,January  ,1,Wellington,New Zealand,18.5,13.7,16.4,-41.3,174.78,Pacific/Auckland
+1008,2024-01-31,2024,January  ,1,Wellington,New Zealand,20.0,15.7,17.1,-41.3,174.78,Pacific/Auckland
+1009,2024-01-29,2024,January  ,1,Wellington,New Zealand,17.1,15.5,16.4,-41.3,174.78,Pacific/Auckland
+1010,2024-01-30,2024,January  ,1,Wellington,New Zealand,19.3,15.7,17.1,-41.3,174.78,Pacific/Auckland
+1011,2024-01-12,2024,January  ,1,Wellington,New Zealand,20.8,16.4,18.5,-41.3,174.78,Pacific/Auckland
+1012,2024-01-02,2024,January  ,1,Wellington,New Zealand,18.4,12.3,15.4,-41.3,174.78,Pacific/Auckland
+1013,2024-01-10,2024,January  ,1,Wellington,New Zealand,21.2,14.4,18.1,-41.3,174.78,Pacific/Auckland
+1014,2024-01-22,2024,January  ,1,Wellington,New Zealand,21.9,17.7,19.5,-41.3,174.78,Pacific/Auckland
+1015,2024-01-05,2024,January  ,1,Wellington,New Zealand,17.5,13.7,15.7,-41.3,174.78,Pacific/Auckland
+1016,2024-01-11,2024,January  ,1,Wellington,New Zealand,19.9,17.1,18.3,-41.3,174.78,Pacific/Auckland
+1017,2024-01-19,2024,January  ,1,Wellington,New Zealand,21.0,18.0,19.5,-41.3,174.78,Pacific/Auckland
+1018,2024-01-13,2024,January  ,1,Wellington,New Zealand,20.0,16.2,18.1,-41.3,174.78,Pacific/Auckland
+1019,2024-02-11,2024,February ,2,Wellington,New Zealand,14.9,12.0,13.4,-41.3,174.78,Pacific/Auckland
+1020,2024-02-03,2024,February ,2,Wellington,New Zealand,16.6,12.5,14.5,-41.3,174.78,Pacific/Auckland
+1021,2024-02-24,2024,February ,2,Wellington,New Zealand,18.3,15.6,17.1,-41.3,174.78,Pacific/Auckland
+1022,2024-02-10,2024,February ,2,Wellington,New Zealand,18.6,15.0,17.2,-41.3,174.78,Pacific/Auckland
+1023,2024-02-21,2024,February ,2,Wellington,New Zealand,16.9,11.1,14.3,-41.3,174.78,Pacific/Auckland
+1024,2024-02-23,2024,February ,2,Wellington,New Zealand,18.2,15.3,16.7,-41.3,174.78,Pacific/Auckland
+1025,2024-02-22,2024,February ,2,Wellington,New Zealand,19.2,11.6,15.6,-41.3,174.78,Pacific/Auckland
+1026,2024-02-04,2024,February ,2,Wellington,New Zealand,18.5,12.0,15.7,-41.3,174.78,Pacific/Auckland
+1027,2024-02-15,2024,February ,2,Wellington,New Zealand,19.2,16.4,17.6,-41.3,174.78,Pacific/Auckland
+1028,2024-02-27,2024,February ,2,Wellington,New Zealand,17.9,14.8,16.4,-41.3,174.78,Pacific/Auckland
+1029,2024-02-02,2024,February ,2,Wellington,New Zealand,18.5,15.7,17.3,-41.3,174.78,Pacific/Auckland
+1030,2024-02-06,2024,February ,2,Wellington,New Zealand,20.0,16.1,17.8,-41.3,174.78,Pacific/Auckland
+1031,2024-02-17,2024,February ,2,Wellington,New Zealand,19.3,15.6,17.2,-41.3,174.78,Pacific/Auckland
+1032,2024-02-18,2024,February ,2,Wellington,New Zealand,18.5,15.7,16.9,-41.3,174.78,Pacific/Auckland
+1033,2024-02-19,2024,February ,2,Wellington,New Zealand,18.9,16.4,17.5,-41.3,174.78,Pacific/Auckland
+1034,2024-02-13,2024,February ,2,Wellington,New Zealand,18.8,13.1,15.7,-41.3,174.78,Pacific/Auckland
+1035,2024-02-28,2024,February ,2,Wellington,New Zealand,17.1,14.4,15.7,-41.3,174.78,Pacific/Auckland
+1036,2024-02-01,2024,February ,2,Wellington,New Zealand,19.4,14.5,17.1,-41.3,174.78,Pacific/Auckland
+1037,2024-02-08,2024,February ,2,Wellington,New Zealand,19.6,14.4,16.9,-41.3,174.78,Pacific/Auckland
+1038,2024-02-20,2024,February ,2,Wellington,New Zealand,17.6,11.3,14.1,-41.3,174.78,Pacific/Auckland
+1039,2024-02-12,2024,February ,2,Wellington,New Zealand,17.1,10.5,14.3,-41.3,174.78,Pacific/Auckland
+1040,2024-02-26,2024,February ,2,Wellington,New Zealand,18.6,13.6,16.0,-41.3,174.78,Pacific/Auckland
+1041,2024-02-29,2024,February ,2,Wellington,New Zealand,17.2,13.0,15.2,-41.3,174.78,Pacific/Auckland
+1042,2024-02-07,2024,February ,2,Wellington,New Zealand,20.3,14.9,17.6,-41.3,174.78,Pacific/Auckland
+1043,2024-02-25,2024,February ,2,Wellington,New Zealand,18.6,14.0,16.9,-41.3,174.78,Pacific/Auckland
+1044,2024-02-05,2024,February ,2,Wellington,New Zealand,20.5,15.9,17.7,-41.3,174.78,Pacific/Auckland
+1045,2024-02-14,2024,February ,2,Wellington,New Zealand,18.3,14.5,16.3,-41.3,174.78,Pacific/Auckland
+1046,2024-02-09,2024,February ,2,Wellington,New Zealand,19.7,15.2,17.1,-41.3,174.78,Pacific/Auckland
+1047,2024-02-16,2024,February ,2,Wellington,New Zealand,19.6,15.9,17.7,-41.3,174.78,Pacific/Auckland
+1048,2024-03-30,2024,March    ,3,Wellington,New Zealand,14.6,11.6,13.0,-41.3,174.78,Pacific/Auckland
+1049,2024-03-11,2024,March    ,3,Wellington,New Zealand,18.7,14.2,16.2,-41.3,174.78,Pacific/Auckland
+1050,2024-03-06,2024,March    ,3,Wellington,New Zealand,14.8,11.1,12.8,-41.3,174.78,Pacific/Auckland
+1051,2024-03-12,2024,March    ,3,Wellington,New Zealand,17.5,13.3,15.5,-41.3,174.78,Pacific/Auckland
+1052,2024-03-27,2024,March    ,3,Wellington,New Zealand,18.1,11.5,15.2,-41.3,174.78,Pacific/Auckland
+1053,2024-03-20,2024,March    ,3,Wellington,New Zealand,14.8,9.8,12.3,-41.3,174.78,Pacific/Auckland
+1054,2024-03-14,2024,March    ,3,Wellington,New Zealand,16.6,12.5,14.5,-41.3,174.78,Pacific/Auckland
+1055,2024-03-05,2024,March    ,3,Wellington,New Zealand,16.6,11.7,14.3,-41.3,174.78,Pacific/Auckland
+1056,2024-03-03,2024,March    ,3,Wellington,New Zealand,18.6,16.4,17.7,-41.3,174.78,Pacific/Auckland
+1057,2024-03-26,2024,March    ,3,Wellington,New Zealand,18.2,16.3,17.0,-41.3,174.78,Pacific/Auckland
+1058,2024-03-24,2024,March    ,3,Wellington,New Zealand,17.3,14.2,15.5,-41.3,174.78,Pacific/Auckland
+1059,2024-03-28,2024,March    ,3,Wellington,New Zealand,15.5,10.5,13.9,-41.3,174.78,Pacific/Auckland
+1060,2024-03-19,2024,March    ,3,Wellington,New Zealand,14.0,11.3,12.7,-41.3,174.78,Pacific/Auckland
+1061,2024-03-21,2024,March    ,3,Wellington,New Zealand,15.6,9.5,12.9,-41.3,174.78,Pacific/Auckland
+1062,2024-03-07,2024,March    ,3,Wellington,New Zealand,17.5,12.3,15.4,-41.3,174.78,Pacific/Auckland
+1063,2024-03-02,2024,March    ,3,Wellington,New Zealand,19.0,15.1,17.4,-41.3,174.78,Pacific/Auckland
+1064,2024-03-25,2024,March    ,3,Wellington,New Zealand,17.5,15.0,16.2,-41.3,174.78,Pacific/Auckland
+1065,2024-03-10,2024,March    ,3,Wellington,New Zealand,16.7,10.3,14.4,-41.3,174.78,Pacific/Auckland
+1066,2024-03-09,2024,March    ,3,Wellington,New Zealand,17.3,12.6,14.8,-41.3,174.78,Pacific/Auckland
+1067,2024-03-15,2024,March    ,3,Wellington,New Zealand,16.3,10.2,14.1,-41.3,174.78,Pacific/Auckland
+1068,2024-03-04,2024,March    ,3,Wellington,New Zealand,19.5,13.8,16.8,-41.3,174.78,Pacific/Auckland
+1069,2024-03-17,2024,March    ,3,Wellington,New Zealand,16.1,11.3,14.1,-41.3,174.78,Pacific/Auckland
+1070,2024-03-23,2024,March    ,3,Wellington,New Zealand,17.3,11.7,14.6,-41.3,174.78,Pacific/Auckland
+1071,2024-03-16,2024,March    ,3,Wellington,New Zealand,14.1,10.7,12.3,-41.3,174.78,Pacific/Auckland
+1072,2024-03-18,2024,March    ,3,Wellington,New Zealand,14.8,12.2,13.7,-41.3,174.78,Pacific/Auckland
+1073,2024-03-01,2024,March    ,3,Wellington,New Zealand,19.0,12.4,15.7,-41.3,174.78,Pacific/Auckland
+1074,2024-03-31,2024,March    ,3,Wellington,New Zealand,14.5,11.4,12.9,-41.3,174.78,Pacific/Auckland
+1075,2024-03-08,2024,March    ,3,Wellington,New Zealand,15.8,13.1,15.0,-41.3,174.78,Pacific/Auckland
+1076,2024-03-22,2024,March    ,3,Wellington,New Zealand,16.3,13.1,14.3,-41.3,174.78,Pacific/Auckland
+1077,2024-03-13,2024,March    ,3,Wellington,New Zealand,16.9,13.0,15.4,-41.3,174.78,Pacific/Auckland
+1078,2024-03-29,2024,March    ,3,Wellington,New Zealand,13.3,8.9,11.2,-41.3,174.78,Pacific/Auckland
+1079,2024-04-08,2024,April    ,4,Wellington,New Zealand,16.0,11.7,14.0,-41.3,174.78,Pacific/Auckland
+1080,2024-04-11,2024,April    ,4,Wellington,New Zealand,19.2,16.9,17.9,-41.3,174.78,Pacific/Auckland
+1081,2024-04-10,2024,April    ,4,Wellington,New Zealand,18.4,15.5,16.7,-41.3,174.78,Pacific/Auckland
+1082,2024-04-03,2024,April    ,4,Wellington,New Zealand,16.7,12.0,14.8,-41.3,174.78,Pacific/Auckland
+1083,2024-04-15,2024,April    ,4,Wellington,New Zealand,15.6,11.7,13.7,-41.3,174.78,Pacific/Auckland
+1084,2024-04-05,2024,April    ,4,Wellington,New Zealand,15.3,11.2,13.6,-41.3,174.78,Pacific/Auckland
+1085,2024-04-12,2024,April    ,4,Wellington,New Zealand,18.8,12.2,14.5,-41.3,174.78,Pacific/Auckland
+1086,2024-04-14,2024,April    ,4,Wellington,New Zealand,14.0,11.8,12.5,-41.3,174.78,Pacific/Auckland
+1087,2024-04-01,2024,April    ,4,Wellington,New Zealand,15.3,11.0,12.7,-41.3,174.78,Pacific/Auckland
+1088,2024-04-09,2024,April    ,4,Wellington,New Zealand,17.6,15.0,16.2,-41.3,174.78,Pacific/Auckland
+1089,2024-04-04,2024,April    ,4,Wellington,New Zealand,16.5,13.6,15.4,-41.3,174.78,Pacific/Auckland
+1090,2024-04-16,2024,April    ,4,Wellington,New Zealand,15.6,12.4,13.9,-41.3,174.78,Pacific/Auckland
+1091,2024-04-07,2024,April    ,4,Wellington,New Zealand,15.8,9.4,12.5,-41.3,174.78,Pacific/Auckland
+1092,2024-04-06,2024,April    ,4,Wellington,New Zealand,15.6,9.7,12.4,-41.3,174.78,Pacific/Auckland
+1093,2024-04-02,2024,April    ,4,Wellington,New Zealand,14.9,12.5,13.4,-41.3,174.78,Pacific/Auckland
+1094,2024-04-13,2024,April    ,4,Wellington,New Zealand,15.2,12.1,13.1,-41.3,174.78,Pacific/Auckland

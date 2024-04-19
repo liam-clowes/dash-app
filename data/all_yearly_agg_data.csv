@@ -1,0 +1,4 @@
+city,lat,lon,avg_temp_c,max_temp_c,min_temp_c
+Berlin,52.52,13.4,12.1,35.2,-7.3
+Tokyo,35.69,139.69,17.6,35.8,1.1
+Wellington,-41.3,174.78,13.4,21.9,5.0
