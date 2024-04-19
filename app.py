@@ -261,6 +261,10 @@ graph8 = dcc.Graph(figure=fig8)
 # Creating my dash app - the skeleton
 
 app = dash.Dash(external_stylesheets=[dbc.themes.CYBORG])
+
+#Do not forget to add the server=app.server!!!
+server = app.server
+
 app.layout = html.Div([
     html.H1('Week 08 - Project Challenge - Weather API', style={'textAlign': 'center', 'color': '#e65100'}),
     html.Div(html.H3("Liam Clowes"), style={'textAlign': 'center', 'color': '#636EFA'}),
